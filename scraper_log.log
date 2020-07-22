@@ -1,0 +1,37 @@
+2020-07-22 16:57:48,507 - scraper_log - INFO - Start scrapping
+2020-07-22 16:58:18,629 - scraper_log - INFO - Start scrapping
+2020-07-22 16:58:18,636 - scraper_log - INFO - Run parser with parameterNamespace(x=10)
+2020-07-22 16:58:18,636 - scraper_log - INFO - 
+2020-07-22 17:08:14,655 - scraper_log - INFO - Start scrapping
+2020-07-22 17:08:14,666 - scraper_log - INFO - Run parser with parameterNamespace(x=10)
+2020-07-22 17:08:14,667 - scraper_log - INFO - Set last page:10
+2020-07-22 17:20:39,357 - scraper_log - INFO - Start scrapping
+2020-07-22 17:20:39,361 - scraper_log - INFO - Set last page:10
+2020-07-22 17:20:39,375 - scraper_log - INFO - Adding data to database
+2020-07-22 17:20:39,376 - scraper_log - INFO - Run parser with parameter10
+2020-07-22 17:21:55,508 - scraper_log - INFO - Start scrapping
+2020-07-22 17:45:46,647 - scraper_log - INFO - Start scrapping
+2020-07-22 17:53:28,396 - scraper_log - INFO - Start scrapping
+2020-07-22 17:55:01,645 - scraper_log - INFO - Start scrapping
+2020-07-22 17:55:32,509 - scraper_log - INFO - Start scrapping
+2020-07-22 17:55:53,009 - scraper_log - INFO - Start scrapping
+2020-07-22 17:57:23,632 - scraper_log - INFO - Start scrapping
+2020-07-22 17:57:32,118 - scraper_log - INFO - Start scrapping
+2020-07-22 17:58:37,358 - scraper_log - INFO - Start scrapping
+2020-07-22 17:59:02,618 - scraper_log - INFO - Start scrapping
+2020-07-22 17:59:02,619 - scraper_log - INFO - Set last page:20
+2020-07-22 18:00:34,928 - scraper_log - INFO - Adding data to the database
+2020-07-22 18:05:02,146 - scraper_log - INFO - Start scrapping
+2020-07-22 18:05:34,318 - scraper_log - INFO - Start scrapping
+2020-07-22 18:08:00,119 - scraper_log - INFO - Start scrapping
+2020-07-22 18:11:45,728 - scraper_log - INFO - Start scrapping
+2020-07-22 18:11:45,732 - scraper_log - ERROR - Function ran without parameter
+2020-07-22 18:11:54,875 - scraper_log - INFO - Start scrapping
+2020-07-22 18:11:54,878 - scraper_log - ERROR - Function ran without parameter
+2020-07-22 18:12:18,348 - scraper_log - INFO - Start scrapping
+2020-07-22 18:12:26,147 - scraper_log - INFO - Start scrapping
+2020-07-22 18:12:26,149 - scraper_log - ERROR - Function ran without parameter
+2020-07-22 18:13:42,872 - scraper_log - INFO - Start scrapping
+2020-07-22 18:13:42,877 - scraper_log - ERROR - Error #2.Function ran without parameter
+2020-07-22 18:14:30,258 - scraper_log - INFO - Start scrapping
+2020-07-22 18:14:30,261 - scraper_log - ERROR - Error 2.Function ran without parameter
