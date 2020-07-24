@@ -35,3 +35,32 @@
 2020-07-22 18:13:42,877 - scraper_log - ERROR - Error #2.Function ran without parameter
 2020-07-22 18:14:30,258 - scraper_log - INFO - Start scrapping
 2020-07-22 18:14:30,261 - scraper_log - ERROR - Error 2.Function ran without parameter
+2020-07-24 18:08:29,773 - scraper_log - INFO - Start scrapping
+2020-07-24 18:08:29,775 - scraper_log - ERROR - Error code2.Function ran without parameter
+2020-07-24 18:12:48,211 - scraper_log - INFO - Start scrapping
+2020-07-24 18:12:48,213 - scraper_log - INFO - Set last page:20
+2020-07-24 18:14:10,335 - scraper_log - INFO - Adding data to the database
+2020-07-24 18:15:45,058 - scraper_log - INFO - Start scrapping
+2020-07-24 18:15:45,061 - scraper_log - INFO - Set last page:20
+2020-07-24 18:40:02,307 - scraper_log - INFO - Start scrapping
+2020-07-24 18:40:02,308 - scraper_log - INFO - Set last page:20
+2020-07-24 18:41:27,592 - scraper_log - INFO - Adding data to the database
+2020-07-24 18:46:49,504 - scraper_log - INFO - Start scrapping
+2020-07-24 18:46:49,506 - scraper_log - INFO - Set last page:20
+2020-07-24 18:52:57,559 - scraper_log - INFO - Start scrapping
+2020-07-24 18:52:57,561 - scraper_log - INFO - Set last page:20
+2020-07-24 19:00:53,041 - scraper_log - INFO - Start scrapping
+2020-07-24 19:00:53,043 - scraper_log - INFO - Set last page:20
+2020-07-24 19:05:50,027 - scraper_log - INFO - Start scrapping
+2020-07-24 19:05:50,029 - scraper_log - INFO - Set last page:20
+2020-07-24 19:12:05,470 - scraper_log - INFO - Start scrapping
+2020-07-24 19:12:05,472 - scraper_log - INFO - Set last page:20
+2020-07-24 19:13:29,278 - scraper_log - INFO - Adding data to the database
+2020-07-24 19:13:48,995 - scraper_log - INFO - Start scrapping
+2020-07-24 19:13:48,996 - scraper_log - INFO - Set last page:20
+2020-07-24 19:15:21,585 - scraper_log - INFO - Adding data to the database
+2020-07-24 19:21:54,786 - scraper_log - INFO - Start scrapping
+2020-07-24 19:21:54,788 - scraper_log - INFO - Set last page:20
+2020-07-24 19:47:28,808 - scraper_log - INFO - Start scrapping
+2020-07-24 19:47:28,810 - scraper_log - INFO - Set last page:20
+2020-07-24 19:48:52,142 - scraper_log - INFO - Adding data to the database

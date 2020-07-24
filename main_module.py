@@ -7,7 +7,7 @@ import argparse
 import logging
 from conf import *
 
-# internal module with own functions
+# internal modules with own functions
 import tools
 import db_manager
 
