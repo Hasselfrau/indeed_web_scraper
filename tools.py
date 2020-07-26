@@ -5,6 +5,9 @@ from bs4 import BeautifulSoup
 import requests
 import grequests
 import urllib
+import wikipedia
+from rest_api import wiki_parser
+
 from conf import *
 
 def greq_parse(urls, logger):
@@ -41,6 +44,12 @@ def greq_parse(urls, logger):
             except:
                 company = 'None'
 
+            #TODO put company_info into database
+            if company != 'None':
+                company_summary = wiki_parser(company, logger)
+            else:
+                company_summary = 'No summary'
+
             try:
                 salary = each.find('span', {'class': 'no-wrap'}).text.replace('\n', '')
             except:
@@ -59,8 +68,8 @@ def greq_parse(urls, logger):
 
             job_descriptoin, url_publisher, publish_date = parse_job_description_page(url_indeed)
 
-            values = (title, location, company, salary, synopsis, job_descriptoin, url_indeed, url_publisher, publish_date)
-            logger.info(f'Information about job position {title} downloaded with {values.count("None")} missed values')
+            values = (title, location, company, salary, synopsis, job_descriptoin, url_indeed, url_publisher, publish_date, company_summary)
+            logger.info(f'Job position {title} in company {company} downloaded with {values.count("None")} missed values')
 
             df = df.append({k: v for k, v in zip(COLUMNS, values)}, ignore_index=True)
 

@@ -5,7 +5,7 @@ STEP = 10
 LOWER_BOUND = 10
 UPPER_BOUND = 50
 COLUMNS = ["Title", "Location", "Company", "Salary", "Synopsis", "Description",
-                               "URL_indeed", "URL_publisher", "Publish_date"]
+                               "URL_indeed", "URL_publisher", "Publish_date", "Company_summary"]
 
 HEADERS = {
         'User-Agent': 'My User Agent 1.0',
@@ -14,3 +14,4 @@ HEADERS = {
 
 LOG_NAME = 'scraper_log'
 LOG_INFO = '>>>>> Start scrapping <<<<<'
+API_KEY = 'eg2c9hwbgq2ssn8bs2wsc8teand'

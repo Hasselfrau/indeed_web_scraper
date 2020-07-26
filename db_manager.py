@@ -16,7 +16,7 @@ def create_db():
 
             sql_query = '''
                     CREATE TABLE job_postings (
-                      posting_id int INTEGER PRIMARY KEY,
+                      posting_id INTEGER PRIMARY KEY AUTOINCREMENT,
                       title TEXT,
                       location TEXT,
                       company_id INTEGER,
@@ -32,16 +32,18 @@ def create_db():
                       REFERENCES companies (company_id) 
                         ON UPDATE SET NULL
                         ON DELETE SET NULL
-                      UNIQUE (title, synopsis)
+                      UNIQUE(title, synopsis)
                     );
                 '''
             cur.execute(sql_query)
 
             sql_query = '''
                     CREATE TABLE companies (
-                      company_id int INTEGER PRIMARY KEY,
+                      company_id INTEGER PRIMARY KEY AUTOINCREMENT,
                       name TEXT,
-                      activity_level TEXT
+                      summary TEXT,
+                      activity_level TEXT,
+                      UNIQUE(name)
                     );
                 '''
             cur.execute(sql_query)
@@ -76,27 +78,34 @@ def add_records(batch, logger):
 
             # posting_id = 0
             for index, row in batch.iterrows():
-
-                posting_id = random.randint(0, 10000000)
-                company_id = random.randint(0, 10000000)
+                # TODO take care about autoincrement
+                # posting_id = random.randint(0, 10000000)
+                # company_id = random.randint(0, 10000000)
                 record_added = str(datetime.now(tz=None))
 
-                record = [posting_id, row[0], row[1], company_id, row[3],
+                record_postings = [row[0], row[1], row[3],
                           row[4],row[5],row[6],row[7],row[8], "NULL", record_added]
 
+                record_companies = [row[2], row[9], "NULL"]
+
                 sql_query = """
-                        INSERT OR IGNORE INTO job_postings (posting_id, title, location, company_id,
+                        INSERT OR IGNORE INTO job_postings (title, location,
                         salary, synopsis, description, url_indeed, url_publisher,
-                        publish_date, close_date, record_added) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                        publish_date, close_date, record_added) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
                         """
-                cur.execute(sql_query, record)
+                cur.execute(sql_query, record_postings)
+
+
+                sql_query = """
+                        INSERT OR IGNORE INTO companies (name, summary, activity_level) VALUES (?, ?, ?)
+                        """
+                cur.execute(sql_query, record_companies)
 
             cur.execute('''
                     SELECT COUNT(posting_id)
                     FROM job_postings
                     ''')
             curr_amount = cur.fetchall()
-
 
             con.commit()
     logger.info(f'{len(batch)} new job positions has been added to the database')
