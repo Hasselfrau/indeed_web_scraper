@@ -11,25 +11,26 @@ from conf import *
 import tools
 import db_manager
 
-def parse_pages(base_url, final_page):
-    df_result = pd.DataFrame(columns=["Title", "Location", "Company", "Salary", "Synopsis", "Description",
-                                      "URL_indeed", "URL_publisher", "Publish_date"])
+def parse_pages(final_page):
+    '''
+    Generate a list with urls and put it into parser function
+    Recieves dataframe from each link and append to general dataframe
+    then upload it to database
+    '''
+    df_result = pd.DataFrame(columns=COLUMNS)
 
+    urls = []
     for suffix in range(START_PAGE, final_page, STEP):
-        df_curr = tools.parse_list_of_jobs(base_url + str(suffix))
-        #TODO  logger.info('')§
-        df_result = pd.concat([df_result, df_curr], ignore_index=True)
-        sleep(random.uniform(1, 3))
+        urls.append(BASE_URL + str(suffix))
+    df_curr = tools.greq_parse(urls, logger)
+    df_result = pd.concat([df_result, df_curr], ignore_index=True)
 
-    df_result.to_csv('result.csv')
-
-    db_manager.add_records(df_result)
-    logger.info('Adding data to the database')
+    db_manager.add_records(df_result, logger)
     return
 
 
 def usage():
-    print('usage: main_module.py <depth> ')
+    print('usage: main_module.py <depth>')
     print('<depth> is number of pages to parse; each page typically consists of 10 job positions')
     print(f'<depth> must be more or equal than {LOWER_BOUND} and less or equal than {UPPER_BOUND} pages currently')
     print('number of pages will be rounded to the nearest ten')
@@ -48,11 +49,10 @@ def main():
 
     if LOWER_BOUND <= args.x <= UPPER_BOUND:
         final_page = int(math.ceil(args.x / 10.0)) * 10  # round up to the nearest ten
-        logger.info(f'Set last page:{final_page}')
-        parse_pages(BASE_URL, final_page)
+        logger.info(f'Set last page: {final_page}')
+        parse_pages(final_page)
 
     else:
-        #TODO let logger.error works with TRY/except (like in example with argparse)
         logger.error(f'please provide number more than {LOWER_BOUND} and less or equal to {UPPER_BOUND}')
         usage()
         sys.exit(1)

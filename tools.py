@@ -1,10 +1,71 @@
+from gevent import monkey
+monkey.patch_all()
 import pandas as pd
 from bs4 import BeautifulSoup
 import requests
+import grequests
 import urllib
 from conf import *
 
-#TODO Add logger to all ovet this file
+def greq_parse(urls, logger):
+    '''
+    Recieves list of urls and scrape data
+    :return: dataframe witn data
+    '''
+    reqs = [grequests.get(u) for u in urls]
+    resp = grequests.map(reqs, size=STEP)
+
+    df = pd.DataFrame(columns=COLUMNS)
+    for i, r in enumerate(resp):
+        if r.status_code != 200:
+            logger.warning("Can't get link: " + r.request.url + " Error code: " + str(r.status_code))
+            continue
+
+        soup = BeautifulSoup(r.text, 'html.parser')
+
+        logger.info(f'Scraping {i+1} of {len(urls)} pages')
+
+        for each in soup.find_all(class_="result"):
+            try:
+                title = each.find(class_='jobtitle').text.replace('\n', '')
+            except:
+                title = 'None'
+
+            try:
+                location = each.find('span', {'class': "location"}).text.replace('\n', '')
+            except:
+                location = 'None'
+
+            try:
+                company = each.find(class_='company').text.replace('\n', '')
+            except:
+                company = 'None'
+
+            try:
+                salary = each.find('span', {'class': 'no-wrap'}).text.replace('\n', '')
+            except:
+                salary = 'None'
+
+            try:
+                synopsis = each.find('span', {'class': 'summary'}).text.replace('\n', '')
+            except:
+                synopsis = 'None'
+
+            try:
+                link = each.find('a', attrs={'class': 'turnstileLink'})
+                url_indeed = ROOT_URL + link.attrs['href']
+            except:
+                url_indeed = 'None'
+
+            job_descriptoin, url_publisher, publish_date = parse_job_description_page(url_indeed)
+
+            values = (title, location, company, salary, synopsis, job_descriptoin, url_indeed, url_publisher, publish_date)
+            logger.info(f'Information about job position {title} downloaded with {values.count("None")} missed values')
+
+            df = df.append({k: v for k, v in zip(COLUMNS, values)}, ignore_index=True)
+
+    return df
+
 
 def parse_job_description_page(url_indeed):
     """
@@ -16,7 +77,6 @@ def parse_job_description_page(url_indeed):
     :return:
     """
 
-    #TODO Change to grequest
     html = requests.get(url_indeed)
     soup = BeautifulSoup(html.content, 'html.parser', from_encoding="utf-8")
 
@@ -41,57 +101,3 @@ def parse_job_description_page(url_indeed):
         publish_date = 'None'
 
     return job_descriptoin, publisher_url, publish_date
-
-
-def parse_list_of_jobs(input_url):
-    html = requests.get(input_url)
-    soup = BeautifulSoup(html.content, 'html.parser', from_encoding="utf-8")
-    df = pd.DataFrame(columns=["Title", "Location", "Company", "Salary", "Synopsis", "Description",
-                               "URL_indeed", "URL_publisher", "Publish_date"])
-
-    for each in soup.find_all(class_="result"):
-        try:
-            title = each.find(class_='jobtitle').text.replace('\n', '')
-        except:
-            title = 'None'
-
-        try:
-            location = each.find('span', {'class': "location"}).text.replace('\n', '')
-        except:
-            location = 'None'
-
-        try:
-            company = each.find(class_='company').text.replace('\n', '')
-        except:
-            company = 'None'
-
-        try:
-            salary = each.find('span', {'class': 'no-wrap'}).text.replace('\n', '')
-        except:
-            salary = 'None'
-
-        try:
-            synopsis = each.find('span', {'class': 'summary'}).text.replace('\n', '')
-        except:
-            synopsis = 'None'
-
-        try:
-            link = each.find('a', attrs={'class': 'turnstileLink'})
-            url_indeed = "https://www.indeed.com" + link.attrs['href']
-        except:
-            url_indeed = 'None'
-
-        job_descriptoin, url_publisher, publish_date = parse_job_description_page(url_indeed)
-
-        df = df.append(
-            {'Title': title,
-             'Location': location,
-             'Company': company,
-             'Salary': salary,
-             'Synopsis': synopsis,
-             'Description': job_descriptoin,
-             'URL_indeed': url_indeed,
-             'URL_publisher': url_publisher,
-             'Publish_date': publish_date
-             }, ignore_index=True)
-    return df

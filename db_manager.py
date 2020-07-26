@@ -65,7 +65,8 @@ def create_db():
     return
 
 
-def add_records(batch):
+def add_records(batch, logger):
+    logger.info('Adding data to the database')
     if not os.path.exists(DB_FILENAME):
         create_db()
 
@@ -90,7 +91,16 @@ def add_records(batch):
                         """
                 cur.execute(sql_query, record)
 
+            cur.execute('''
+                    SELECT COUNT(posting_id)
+                    FROM job_postings
+                    ''')
+            curr_amount = cur.fetchall()
+
+
             con.commit()
+    logger.info(f'{len(batch)} new job positions has been added to the database')
+    logger.info(f'Current number of positions: {curr_amount[0][0]}')
 
 
 if not os.path.exists(DB_FILENAME):
