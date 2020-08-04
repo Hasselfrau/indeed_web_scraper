@@ -1,116 +1,166 @@
-import sqlite3
+# import sqlite3
 import os
 import contextlib
 import random
 from datetime import datetime
+import pymysql.cursors
+from pymysql.cursors import DictCursorMixin, Cursor
+from collections import OrderedDict
+from conf import *
 
-DB_FILENAME = 'jobs.db'
+DATABASE = 'jobs'
+
+class OrderedDictCursor(DictCursorMixin, Cursor):
+    dict_type = OrderedDict
+
 
 def create_db():
-    if os.path.exists(DB_FILENAME):
-        os.remove(DB_FILENAME)
 
-    with contextlib.closing(sqlite3.connect(DB_FILENAME)) as con: # auto-closes
-        with con: # auto-commits
-            cur = con.cursor()
+    connection = pymysql.connect(host=HOST,
+                                 user=USER,
+                                 password=DB_PASS,
+                                 charset=CHARSET,
+                                 cursorclass=pymysql.cursors.DictCursor)
 
-            sql_query = '''
-                    CREATE TABLE job_postings (
-                      posting_id INTEGER PRIMARY KEY AUTOINCREMENT,
-                      title TEXT,
-                      location TEXT,
-                      company_id INTEGER,
-                      salary TEXT,
-                      synopsis TEXT,
-                      description TEXT,
-                      url_indeed TEXT,
-                      url_publisher TEXT,
-                      publish_date TEXT,
-                      close_date TEXT,
-                      record_added TEXT,
-                      FOREIGN KEY (company_id)
-                      REFERENCES companies (company_id) 
-                        ON UPDATE SET NULL
-                        ON DELETE SET NULL
-                      UNIQUE(title, synopsis)
-                    );
-                '''
-            cur.execute(sql_query)
+    with connection.cursor(OrderedDictCursor) as cur:
+        sql_query = "SELECT SCHEMA_NAME FROM INFORMATION_SCHEMA.SCHEMATA WHERE SCHEMA_NAME = '" + DATABASE + "';"
+        cur.execute(sql_query)
+        result = cur.fetchall()
 
-            sql_query = '''
-                    CREATE TABLE companies (
-                      company_id INTEGER PRIMARY KEY AUTOINCREMENT,
+    if len(result) > 0 and result[0]['SCHEMA_NAME'] == DATABASE:
+        return
+
+    with connection.cursor(OrderedDictCursor) as cur:
+        sql_query = "CREATE DATABASE " + DATABASE + ";"
+        cur.execute(sql_query)
+
+        sql_query = "USE " + DATABASE + ";"
+        cur.execute(sql_query)
+
+    with connection.cursor(OrderedDictCursor) as cur:
+        sql_query = '''
+                CREATE TABLE companies (
+                      company_id INT AUTO_INCREMENT PRIMARY KEY,
                       name TEXT,
-                      summary TEXT,
-                      activity_level TEXT,
-                      UNIQUE(name)
+                      activity_level TEXT
                     );
-                '''
-            cur.execute(sql_query)
+            '''
+        cur.execute(sql_query)
 
-            # sql_query = '''
-            #         CREATE TABLE requirements (
-            #           req_id int INTEGER PRIMARY KEY,
-            #           name TEXT,
-            #           description TEXT,
-            #           posting_id INTEGER,
-            #           FOREIGN KEY (posting_id)
-            #           REFERENCES job_postings (posting_id)
-            #             ON UPDATE SET NULL
-            #             ON DELETE SET NULL
-            #         );
-            #     '''
-            # cur.execute(sql_query)
-
-            con.commit()
+    with connection.cursor(OrderedDictCursor) as cur:
+        sql_query = '''
+                 CREATE TABLE job_postings (
+                       posting_id INT AUTO_INCREMENT PRIMARY KEY,
+                       title VARCHAR(256),
+                       location TEXT,
+                       company_id INT,
+                       salary TEXT,
+                       synopsis TEXT,
+                       description TEXT,
+                       url_indeed VARCHAR(512),
+                       url_publisher TEXT,
+                       publish_date TEXT,
+                       close_date TEXT,
+                       record_added TEXT,
+                       FOREIGN KEY (company_id) REFERENCES companies (company_id),
+                       UNIQUE (url_indeed)
+                     );
+             '''
+        cur.execute(sql_query)
 
     return
 
-
 def add_records(batch, logger):
-    logger.info('Adding data to the database')
-    if not os.path.exists(DB_FILENAME):
+
+    connection = pymysql.connect(host=HOST,
+                                 user=USER,
+                                 password=DB_PASS,
+                                 charset=CHARSET,
+                                 cursorclass=pymysql.cursors.DictCursor)
+
+    with connection.cursor(OrderedDictCursor) as cur:
+        sql_query = "SELECT SCHEMA_NAME FROM INFORMATION_SCHEMA.SCHEMATA WHERE SCHEMA_NAME = '" + DATABASE + "';"
+        cur.execute(sql_query)
+        result = cur.fetchall()
+
+    if len(result) == 0:
         create_db()
 
-    with contextlib.closing(sqlite3.connect(DB_FILENAME)) as con: # auto-closes
-        with con: # auto-commits
-            cur = con.cursor()
 
-            # posting_id = 0
-            for index, row in batch.iterrows():
-                # TODO take care about autoincrement
-                # posting_id = random.randint(0, 10000000)
-                # company_id = random.randint(0, 10000000)
-                record_added = str(datetime.now(tz=None))
+    connection = pymysql.connect(host=HOST,
+                                 user=USER,
+                                 password=DB_PASS,
+                                 db=DB_NAME,
+                                 charset=CHARSET,
+                                 cursorclass=pymysql.cursors.DictCursor)
 
-                record_postings = [row[0], row[1], row[3],
-                          row[4],row[5],row[6],row[7],row[8], "NULL", record_added]
+    logger.info('Adding data to the database')
 
-                record_companies = [row[2], row[9], "NULL"]
+    with connection.cursor(OrderedDictCursor) as cur:
 
+        sql_query = "USE " + DATABASE + ";"
+        cur.execute(sql_query)
+
+        for index, row in batch.iterrows():
+
+            try:
+                sql_query = "SELECT company_id FROM companies WHERE name = '" + str(row[2]) +"'"
+                cur.execute(sql_query)
+                company_id = cur.fetchall()[0]['company_id']
+            except:
                 sql_query = """
-                        INSERT OR IGNORE INTO job_postings (title, location,
-                        salary, synopsis, description, url_indeed, url_publisher,
-                        publish_date, close_date, record_added) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                        INSERT IGNORE INTO companies (name) VALUES (%s);
+                        """
+                cur.execute(sql_query, [str(row[2])])
+
+                sql_query = "SELECT company_id FROM companies WHERE name = '" + str(row[2]) +"'"
+                cur.execute(sql_query)
+                company_id = cur.fetchall()[0]['company_id']
+
+            record_added = str(datetime.now(tz=None))
+            record_postings = [str(row[0])[:256],   # title
+                               str(row[1]),         # location
+                               company_id,
+                               str(row[3]),         # salary
+                               str(row[4]),         # synopsis
+                               str(row[5]),         # job description
+                               str(row[6])[:512],   # url_indeed
+                               str(row[7]),         # url_publisher
+                               str(row[8]),         # publish_date
+                               record_added]
+            try:
+                sql_query = """
+                        INSERT IGNORE INTO job_postings (title, location, company_id, salary, synopsis, description,
+                                                         url_indeed, url_publisher, publish_date,
+                                                         record_added)
+                        VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s);
                         """
                 cur.execute(sql_query, record_postings)
+            except Exception as e:
+                logger.error(f'Warning: {str(e)}')
 
 
-                sql_query = """
-                        INSERT OR IGNORE INTO companies (name, summary, activity_level) VALUES (?, ?, ?)
-                        """
-                cur.execute(sql_query, record_companies)
 
             cur.execute('''
                     SELECT COUNT(posting_id)
                     FROM job_postings
                     ''')
-            curr_amount = cur.fetchall()
+            curr_amount = cur.fetchall()[0]['COUNT(posting_id)']
 
-            con.commit()
+        connection.commit()
+
     logger.info(f'{len(batch)} new job positions has been added to the database')
-    logger.info(f'Current number of positions: {curr_amount[0][0]}')
+    logger.info(f'Current number of positions: {curr_amount}')
 
 
-if not os.path.exists(DB_FILENAME):
-    create_db()
+
+# import logging
+# import pandas as pd
+#
+# LOG_NAME = 'scraper_log'
+#
+# logger = logging.getLogger(LOG_NAME)
+# logger.setLevel(logging.INFO)
+#
+# df = pd.read_csv('result.csv')
+# add_records(df, logger)

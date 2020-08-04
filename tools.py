@@ -5,7 +5,6 @@ from bs4 import BeautifulSoup
 import requests
 import grequests
 import urllib
-import wikipedia
 from rest_api import wiki_parser
 
 from conf import *

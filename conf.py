@@ -15,3 +15,10 @@ HEADERS = {
 LOG_NAME = 'scraper_log'
 LOG_INFO = '>>>>> Start scrapping <<<<<'
 API_KEY = 'eg2c9hwbgq2ssn8bs2wsc8teand'
+
+# ---------DATABASE connections---------
+HOST = 'localhost'
+USER = 'root'
+DB_PASS = 'Mysql5780!'
+DB_NAME = 'jobs'
+CHARSET = 'utf8mb4'

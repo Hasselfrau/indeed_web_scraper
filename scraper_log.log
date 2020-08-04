@@ -1145,3 +1145,135 @@ Current number of positions: 225
 2020-07-26 21:48:30,180 - scraper_log - INFO - Adding data to the database
 2020-07-26 21:48:30,198 - scraper_log - INFO - 15 new job positions has been added to the database
 2020-07-26 21:48:30,198 - scraper_log - INFO - Current number of positions: 12
+2020-08-02 17:52:39,289 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-08-02 17:52:39,293 - scraper_log - INFO - Set last page: 20
+2020-08-02 17:52:42,040 - scraper_log - INFO - Scraping 1 of 1 pages
+2020-08-02 17:52:47,425 - scraper_log - INFO - Job position Product Data Scientist in company Twitter downloaded with 2 missed values
+2020-08-02 17:52:48,064 - scraper_log - WARNING - Can't find page of RISIRISA on wikipedia
+2020-08-02 17:52:52,269 - scraper_log - INFO - Job position Data Scientist in company RISIRISA downloaded with 2 missed values
+2020-08-02 17:53:01,050 - scraper_log - INFO - Job position Data Scientist in company 1-800-Flowers downloaded with 3 missed values
+2020-08-02 17:53:08,637 - scraper_log - INFO - Job position Data Scientist, SoundBetter in company Spotify downloaded with 2 missed values
+2020-08-02 17:53:16,960 - scraper_log - INFO - Job position Sr. Data Scientist in company TMP Worldwide downloaded with 2 missed values
+2020-08-02 17:53:24,156 - scraper_log - INFO - Job position Data Scientist, Voter Data in company Hawkfish downloaded with 2 missed values
+2020-08-02 17:53:29,959 - scraper_log - INFO - Job position Data Scientist in company Conde Nast downloaded with 2 missed values
+2020-08-02 17:53:37,870 - scraper_log - INFO - Job position Data Scientist, Platform Analytics in company Disney Streaming Services downloaded with 2 missed values
+2020-08-02 17:53:43,675 - scraper_log - INFO - Job position Data Scientist in company Take-Two Interactive Software, Inc. downloaded with 2 missed values
+2020-08-02 17:53:50,654 - scraper_log - INFO - Job position Data Scientist II in company New York Power Authority downloaded with 2 missed values
+2020-08-02 17:53:57,661 - scraper_log - INFO - Job position Data Scientist, Premium Products Discovery in company Spotify downloaded with 2 missed values
+2020-08-02 17:54:07,263 - scraper_log - INFO - Job position 2020 PhD Data Scientist Internship - Uber Eats (New York) in company Uber downloaded with 3 missed values
+2020-08-02 17:54:13,693 - scraper_log - INFO - Job position Data Scientist/ML Engineer in company PA Consulting Group downloaded with 2 missed values
+2020-08-02 17:54:15,181 - scraper_log - WARNING - Can't find page of Committee of 100 on wikipedia
+2020-08-02 17:54:19,260 - scraper_log - INFO - Job position Data Scientist in company Committee of 100 downloaded with 2 missed values
+2020-08-02 17:54:19,882 - scraper_log - WARNING - Can't find page of Research Foundation of The City University of New... on wikipedia
+2020-08-02 17:54:26,036 - scraper_log - INFO - Job position Student Persistence Initiative Data Analyst/Scientist in company Research Foundation of The City University of New... downloaded with 2 missed values
+2020-08-02 17:54:26,040 - scraper_log - INFO - Adding data to the database
+2020-08-02 17:54:26,061 - scraper_log - INFO - 15 new job positions has been added to the database
+2020-08-02 17:54:26,061 - scraper_log - INFO - Current number of positions: 18
+2020-08-02 17:54:46,393 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-08-02 17:54:46,395 - scraper_log - INFO - Set last page: 20
+2020-08-02 17:54:48,892 - scraper_log - INFO - Scraping 1 of 1 pages
+2020-08-02 17:55:00,712 - scraper_log - INFO - Job position Data Scientist in company 1-800-Flowers downloaded with 3 missed values
+2020-08-02 17:55:01,295 - scraper_log - WARNING - Can't find page of RISIRISA on wikipedia
+2020-08-02 17:55:05,295 - scraper_log - INFO - Job position Data Scientist in company RISIRISA downloaded with 2 missed values
+2020-08-02 17:55:10,798 - scraper_log - INFO - Job position Data Scientist in company Conde Nast downloaded with 2 missed values
+2020-08-02 17:55:15,412 - scraper_log - INFO - Job position Data Analytics Intern in company The Bronx Defenders downloaded with 1 missed values
+2020-08-02 17:55:22,677 - scraper_log - INFO - Job position Data Scientist, SoundBetter in company Spotify downloaded with 2 missed values
+2020-08-02 17:55:28,469 - scraper_log - INFO - Job position Data Scientist, Voter Data in company Hawkfish downloaded with 2 missed values
+2020-08-02 17:55:36,245 - scraper_log - INFO - Job position Sr. Data Scientist in company TMP Worldwide downloaded with 2 missed values
+2020-08-02 17:55:43,485 - scraper_log - INFO - Job position Data Scientist, Platform Analytics in company Disney Streaming Services downloaded with 2 missed values
+2020-08-02 17:55:49,384 - scraper_log - INFO - Job position Data Scientist in company Take-Two Interactive Software, Inc. downloaded with 2 missed values
+2020-08-02 17:55:57,584 - scraper_log - INFO - Job position 2020 PhD Data Scientist Internship - Uber Eats (New York) in company Uber downloaded with 3 missed values
+2020-08-02 17:56:04,527 - scraper_log - INFO - Job position Data Scientist II in company New York Power Authority downloaded with 2 missed values
+2020-08-02 17:56:11,193 - scraper_log - INFO - Job position Data Scientist, Premium Products Discovery in company Spotify downloaded with 2 missed values
+2020-08-02 17:56:13,045 - scraper_log - WARNING - Can't find page of Committee of 100 on wikipedia
+2020-08-02 17:56:16,858 - scraper_log - INFO - Job position Data Scientist in company Committee of 100 downloaded with 2 missed values
+2020-08-02 17:56:17,452 - scraper_log - WARNING - Can't find page of Research Foundation of The City University of New... on wikipedia
+2020-08-02 17:56:23,515 - scraper_log - INFO - Job position Student Persistence Initiative Data Analyst/Scientist in company Research Foundation of The City University of New... downloaded with 2 missed values
+2020-08-02 17:56:34,364 - scraper_log - INFO - Job position Data Scientist/ML Engineer in company PA Consulting Group downloaded with 2 missed values
+2020-08-02 17:56:34,375 - scraper_log - INFO - Adding data to the database
+2020-08-02 17:56:34,395 - scraper_log - INFO - 15 new job positions has been added to the database
+2020-08-02 17:56:34,396 - scraper_log - INFO - Current number of positions: 19
+2020-08-04 14:01:03,386 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-08-04 14:01:03,389 - scraper_log - INFO - Set last page: 20
+2020-08-04 14:01:05,102 - scraper_log - INFO - Scraping 1 of 1 pages
+2020-08-04 14:01:11,458 - scraper_log - INFO - Job position Content Contributor: Data Science in company Codecademy downloaded with 2 missed values
+2020-08-04 14:01:16,677 - scraper_log - INFO - Job position Data Scientist in company Hinge downloaded with 2 missed values
+2020-08-04 14:01:17,497 - scraper_log - WARNING - Can't find page of Decode_M on wikipedia
+2020-08-04 14:01:20,638 - scraper_log - INFO - Job position Junior Data Scientist in company Decode_M downloaded with 2 missed values
+2020-08-04 14:01:21,423 - scraper_log - WARNING - Can't find page of Triplebyte on wikipedia
+2020-08-04 14:01:22,617 - scraper_log - INFO - Job position Data Scientist in company Triplebyte downloaded with 2 missed values
+2020-08-04 14:01:29,904 - scraper_log - INFO - Job position Data Scientist in company Booz Allen Hamilton downloaded with 2 missed values
+2020-08-04 14:01:30,690 - scraper_log - WARNING - Can't find page of RISIRISA on wikipedia
+2020-08-04 14:01:34,160 - scraper_log - INFO - Job position Data Scientist in company RISIRISA downloaded with 2 missed values
+2020-08-04 14:01:41,293 - scraper_log - INFO - Job position Sr. Data Scientist in company TMP Worldwide downloaded with 2 missed values
+2020-08-04 14:01:48,196 - scraper_log - INFO - Job position Data Scientist – Experimentation (Contract Position) in company Getty Images downloaded with 2 missed values
+2020-08-04 14:01:55,522 - scraper_log - INFO - Job position DATA SCIENTIST in company Foot Locker, Inc. downloaded with 2 missed values
+2020-08-04 14:02:01,115 - scraper_log - INFO - Job position Data Scientist in company Conde Nast downloaded with 2 missed values
+2020-08-04 14:02:01,131 - scraper_log - INFO - Adding data to the database
+2020-08-04 14:02:01,195 - scraper_log - INFO - 10 new job positions has been added to the database
+2020-08-04 14:02:01,195 - scraper_log - INFO - Current number of positions: 20
+2020-08-04 14:06:03,225 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-08-04 14:06:03,227 - scraper_log - INFO - Set last page: 20
+2020-08-04 14:06:05,098 - scraper_log - INFO - Scraping 1 of 1 pages
+2020-08-04 14:06:06,118 - scraper_log - WARNING - Can't find page of RISIRISA on wikipedia
+2020-08-04 14:06:09,735 - scraper_log - INFO - Job position Data Scientist in company RISIRISA downloaded with 2 missed values
+2020-08-04 14:06:17,165 - scraper_log - INFO - Job position Sr. Data Scientist in company TMP Worldwide downloaded with 2 missed values
+2020-08-04 14:06:21,941 - scraper_log - INFO - Job position Data Analytics Internship, Case Management Team, DHR, NYHQ in company UNICEF downloaded with 1 missed values
+2020-08-04 14:06:29,275 - scraper_log - INFO - Job position Data Scientist in company 1-800-Flowers downloaded with 3 missed values
+2020-08-04 14:06:34,776 - scraper_log - INFO - Job position Data Scientist in company Conde Nast downloaded with 2 missed values
+2020-08-04 14:06:42,653 - scraper_log - INFO - Job position DATA SCIENTIST in company Foot Locker, Inc. downloaded with 2 missed values
+2020-08-04 14:06:50,573 - scraper_log - INFO - Job position Data Scientist – Experimentation (Contract Position) in company Getty Images downloaded with 2 missed values
+2020-08-04 14:06:56,989 - scraper_log - INFO - Job position Data Scientist, Voter Data in company Hawkfish downloaded with 2 missed values
+2020-08-04 14:07:03,016 - scraper_log - INFO - Job position Data Scientist in company Take-Two Interactive Software, Inc. downloaded with 2 missed values
+2020-08-04 14:07:04,824 - scraper_log - WARNING - Can't find page of Committee of 100 on wikipedia
+2020-08-04 14:07:08,404 - scraper_log - INFO - Job position Data Scientist in company Committee of 100 downloaded with 2 missed values
+2020-08-04 14:07:14,905 - scraper_log - INFO - Job position Data Scientist II in company New York Power Authority downloaded with 2 missed values
+2020-08-04 14:07:22,625 - scraper_log - INFO - Job position 2020 PhD Data Scientist Internship - Uber Eats (New York) in company Uber downloaded with 3 missed values
+2020-08-04 14:07:29,488 - scraper_log - INFO - Job position Data Scientist, Premium Products Discovery in company Spotify downloaded with 2 missed values
+2020-08-04 14:07:36,246 - scraper_log - INFO - Job position Data Scientist, Platform Analytics in company Disney Streaming Services downloaded with 2 missed values
+2020-08-04 14:07:42,844 - scraper_log - INFO - Job position Principal Data Scientist in company Veeva Systems downloaded with 2 missed values
+2020-08-04 14:07:42,866 - scraper_log - INFO - Adding data to the database
+2020-08-04 14:07:42,929 - scraper_log - INFO - 15 new job positions has been added to the database
+2020-08-04 14:07:42,929 - scraper_log - INFO - Current number of positions: 20
+2020-08-04 14:11:34,747 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-08-04 14:11:34,750 - scraper_log - INFO - Set last page: 20
+2020-08-04 14:11:36,393 - scraper_log - INFO - Scraping 1 of 1 pages
+2020-08-04 14:11:42,117 - scraper_log - INFO - Job position Content Contributor: Data Science in company Codecademy downloaded with 2 missed values
+2020-08-04 14:11:47,075 - scraper_log - INFO - Job position Data Scientist in company Hinge downloaded with 2 missed values
+2020-08-04 14:11:47,863 - scraper_log - WARNING - Can't find page of Decode_M on wikipedia
+2020-08-04 14:11:51,095 - scraper_log - INFO - Job position Junior Data Scientist in company Decode_M downloaded with 2 missed values
+2020-08-04 14:11:51,895 - scraper_log - WARNING - Can't find page of Triplebyte on wikipedia
+2020-08-04 14:11:53,144 - scraper_log - INFO - Job position Data Scientist in company Triplebyte downloaded with 2 missed values
+2020-08-04 14:12:00,564 - scraper_log - INFO - Job position Data Scientist in company Booz Allen Hamilton downloaded with 2 missed values
+2020-08-04 14:12:01,371 - scraper_log - WARNING - Can't find page of RISIRISA on wikipedia
+2020-08-04 14:12:04,848 - scraper_log - INFO - Job position Data Scientist in company RISIRISA downloaded with 2 missed values
+2020-08-04 14:12:12,122 - scraper_log - INFO - Job position Sr. Data Scientist in company TMP Worldwide downloaded with 2 missed values
+2020-08-04 14:12:18,647 - scraper_log - INFO - Job position Data Scientist – Experimentation (Contract Position) in company Getty Images downloaded with 2 missed values
+2020-08-04 14:12:25,958 - scraper_log - INFO - Job position DATA SCIENTIST in company Foot Locker, Inc. downloaded with 2 missed values
+2020-08-04 14:12:31,309 - scraper_log - INFO - Job position Data Scientist in company Conde Nast downloaded with 2 missed values
+2020-08-04 14:12:31,323 - scraper_log - INFO - Adding data to the database
+2020-08-04 14:12:31,362 - scraper_log - INFO - 10 new job positions has been added to the database
+2020-08-04 14:12:31,363 - scraper_log - INFO - Current number of positions: 20
+2020-08-04 14:13:24,188 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-08-04 14:13:24,191 - scraper_log - INFO - Set last page: 20
+2020-08-04 14:13:26,024 - scraper_log - INFO - Scraping 1 of 1 pages
+2020-08-04 14:13:26,871 - scraper_log - WARNING - Can't find page of RISIRISA on wikipedia
+2020-08-04 14:13:30,846 - scraper_log - INFO - Job position Data Scientist in company RISIRISA downloaded with 2 missed values
+2020-08-04 14:13:38,576 - scraper_log - INFO - Job position Sr. Data Scientist in company TMP Worldwide downloaded with 2 missed values
+2020-08-04 14:13:43,863 - scraper_log - INFO - Job position Data Analytics Internship, Case Management Team, DHR, NYHQ in company UNICEF downloaded with 1 missed values
+2020-08-04 14:13:51,369 - scraper_log - INFO - Job position Data Scientist in company 1-800-Flowers downloaded with 3 missed values
+2020-08-04 14:13:57,216 - scraper_log - INFO - Job position Data Scientist in company Conde Nast downloaded with 2 missed values
+2020-08-04 14:14:06,098 - scraper_log - INFO - Job position DATA SCIENTIST in company Foot Locker, Inc. downloaded with 2 missed values
+2020-08-04 14:14:12,898 - scraper_log - INFO - Job position Data Scientist – Experimentation (Contract Position) in company Getty Images downloaded with 2 missed values
+2020-08-04 14:14:19,012 - scraper_log - INFO - Job position Data Scientist, Voter Data in company Hawkfish downloaded with 2 missed values
+2020-08-04 14:14:24,758 - scraper_log - INFO - Job position Data Scientist in company Take-Two Interactive Software, Inc. downloaded with 2 missed values
+2020-08-04 14:14:26,555 - scraper_log - WARNING - Can't find page of Committee of 100 on wikipedia
+2020-08-04 14:14:30,201 - scraper_log - INFO - Job position Data Scientist in company Committee of 100 downloaded with 2 missed values
+2020-08-04 14:14:37,085 - scraper_log - INFO - Job position Data Scientist II in company New York Power Authority downloaded with 2 missed values
+2020-08-04 14:14:44,896 - scraper_log - INFO - Job position 2020 PhD Data Scientist Internship - Uber Eats (New York) in company Uber downloaded with 3 missed values
+2020-08-04 14:14:51,400 - scraper_log - INFO - Job position Data Scientist, Premium Products Discovery in company Spotify downloaded with 2 missed values
+2020-08-04 14:14:58,497 - scraper_log - INFO - Job position Data Scientist, Platform Analytics in company Disney Streaming Services downloaded with 2 missed values
+2020-08-04 14:15:05,133 - scraper_log - INFO - Job position Principal Data Scientist in company Veeva Systems downloaded with 2 missed values
+2020-08-04 14:15:05,147 - scraper_log - INFO - Adding data to the database
+2020-08-04 14:15:05,207 - scraper_log - INFO - 15 new job positions has been added to the database
+2020-08-04 14:15:05,207 - scraper_log - INFO - Current number of positions: 20
