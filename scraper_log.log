@@ -1,0 +1,1279 @@
+2020-07-22 16:57:48,507 - scraper_log - INFO - Start scrapping
+2020-07-22 16:58:18,629 - scraper_log - INFO - Start scrapping
+2020-07-22 16:58:18,636 - scraper_log - INFO - Run parser with parameterNamespace(x=10)
+2020-07-22 16:58:18,636 - scraper_log - INFO - 
+2020-07-22 17:08:14,655 - scraper_log - INFO - Start scrapping
+2020-07-22 17:08:14,666 - scraper_log - INFO - Run parser with parameterNamespace(x=10)
+2020-07-22 17:08:14,667 - scraper_log - INFO - Set last page:10
+2020-07-22 17:20:39,357 - scraper_log - INFO - Start scrapping
+2020-07-22 17:20:39,361 - scraper_log - INFO - Set last page:10
+2020-07-22 17:20:39,375 - scraper_log - INFO - Adding data to database
+2020-07-22 17:20:39,376 - scraper_log - INFO - Run parser with parameter10
+2020-07-22 17:21:55,508 - scraper_log - INFO - Start scrapping
+2020-07-22 17:45:46,647 - scraper_log - INFO - Start scrapping
+2020-07-22 17:53:28,396 - scraper_log - INFO - Start scrapping
+2020-07-22 17:55:01,645 - scraper_log - INFO - Start scrapping
+2020-07-22 17:55:32,509 - scraper_log - INFO - Start scrapping
+2020-07-22 17:55:53,009 - scraper_log - INFO - Start scrapping
+2020-07-22 17:57:23,632 - scraper_log - INFO - Start scrapping
+2020-07-22 17:57:32,118 - scraper_log - INFO - Start scrapping
+2020-07-22 17:58:37,358 - scraper_log - INFO - Start scrapping
+2020-07-22 17:59:02,618 - scraper_log - INFO - Start scrapping
+2020-07-22 17:59:02,619 - scraper_log - INFO - Set last page:20
+2020-07-22 18:00:34,928 - scraper_log - INFO - Adding data to the database
+2020-07-22 18:05:02,146 - scraper_log - INFO - Start scrapping
+2020-07-22 18:05:34,318 - scraper_log - INFO - Start scrapping
+2020-07-22 18:08:00,119 - scraper_log - INFO - Start scrapping
+2020-07-22 18:11:45,728 - scraper_log - INFO - Start scrapping
+2020-07-22 18:11:45,732 - scraper_log - ERROR - Function ran without parameter
+2020-07-22 18:11:54,875 - scraper_log - INFO - Start scrapping
+2020-07-22 18:11:54,878 - scraper_log - ERROR - Function ran without parameter
+2020-07-22 18:12:18,348 - scraper_log - INFO - Start scrapping
+2020-07-22 18:12:26,147 - scraper_log - INFO - Start scrapping
+2020-07-22 18:12:26,149 - scraper_log - ERROR - Function ran without parameter
+2020-07-22 18:13:42,872 - scraper_log - INFO - Start scrapping
+2020-07-22 18:13:42,877 - scraper_log - ERROR - Error #2.Function ran without parameter
+2020-07-22 18:14:30,258 - scraper_log - INFO - Start scrapping
+2020-07-22 18:14:30,261 - scraper_log - ERROR - Error 2.Function ran without parameter
+2020-07-24 18:08:29,773 - scraper_log - INFO - Start scrapping
+2020-07-24 18:08:29,775 - scraper_log - ERROR - Error code2.Function ran without parameter
+2020-07-24 18:12:48,211 - scraper_log - INFO - Start scrapping
+2020-07-24 18:12:48,213 - scraper_log - INFO - Set last page:20
+2020-07-24 18:14:10,335 - scraper_log - INFO - Adding data to the database
+2020-07-24 18:15:45,058 - scraper_log - INFO - Start scrapping
+2020-07-24 18:15:45,061 - scraper_log - INFO - Set last page:20
+2020-07-24 18:40:02,307 - scraper_log - INFO - Start scrapping
+2020-07-24 18:40:02,308 - scraper_log - INFO - Set last page:20
+2020-07-24 18:41:27,592 - scraper_log - INFO - Adding data to the database
+2020-07-24 18:46:49,504 - scraper_log - INFO - Start scrapping
+2020-07-24 18:46:49,506 - scraper_log - INFO - Set last page:20
+2020-07-24 18:52:57,559 - scraper_log - INFO - Start scrapping
+2020-07-24 18:52:57,561 - scraper_log - INFO - Set last page:20
+2020-07-24 19:00:53,041 - scraper_log - INFO - Start scrapping
+2020-07-24 19:00:53,043 - scraper_log - INFO - Set last page:20
+2020-07-24 19:05:50,027 - scraper_log - INFO - Start scrapping
+2020-07-24 19:05:50,029 - scraper_log - INFO - Set last page:20
+2020-07-24 19:12:05,470 - scraper_log - INFO - Start scrapping
+2020-07-24 19:12:05,472 - scraper_log - INFO - Set last page:20
+2020-07-24 19:13:29,278 - scraper_log - INFO - Adding data to the database
+2020-07-24 19:13:48,995 - scraper_log - INFO - Start scrapping
+2020-07-24 19:13:48,996 - scraper_log - INFO - Set last page:20
+2020-07-24 19:15:21,585 - scraper_log - INFO - Adding data to the database
+2020-07-24 19:21:54,786 - scraper_log - INFO - Start scrapping
+2020-07-24 19:21:54,788 - scraper_log - INFO - Set last page:20
+2020-07-24 19:47:28,808 - scraper_log - INFO - Start scrapping
+2020-07-24 19:47:28,810 - scraper_log - INFO - Set last page:20
+2020-07-24 19:48:52,142 - scraper_log - INFO - Adding data to the database
+2020-07-25 20:04:54,183 - scraper_log - INFO - Start scrapping
+2020-07-25 20:04:54,186 - scraper_log - INFO - Set last page:20
+2020-07-25 20:06:29,333 - scraper_log - INFO - Adding data to the database
+2020-07-25 20:11:55,703 - scraper_log - INFO - Start scrapping
+2020-07-25 20:11:55,706 - scraper_log - INFO - Set last page:20
+2020-07-25 20:12:02,118 - scraper_log - INFO - Information about job position Data Scientist, Analytics & Inference downloaded with Title            0
+Location         0
+Company          0
+Salary           0
+Synopsis         0
+Description      0
+URL_indeed       0
+URL_publisher    0
+Publish_date     0
+dtype: int64 missed values
+2020-07-25 20:12:09,161 - scraper_log - INFO - Information about job position Data Scientist downloaded with Title            0
+Location         0
+Company          0
+Salary           0
+Synopsis         0
+Description      0
+URL_indeed       0
+URL_publisher    0
+Publish_date     0
+dtype: int64 missed values
+2020-07-25 20:12:17,872 - scraper_log - INFO - Information about job position Data Scientist, SoundBetter downloaded with Title            0
+Location         0
+Company          0
+Salary           0
+Synopsis         0
+Description      0
+URL_indeed       0
+URL_publisher    0
+Publish_date     0
+dtype: int64 missed values
+2020-07-25 20:12:23,096 - scraper_log - INFO - Information about job position Data Scientist downloaded with Title            0
+Location         0
+Company          0
+Salary           0
+Synopsis         0
+Description      0
+URL_indeed       0
+URL_publisher    0
+Publish_date     0
+dtype: int64 missed values
+2020-07-25 20:12:26,522 - scraper_log - INFO - Information about job position Data Analytics Intern downloaded with Title            0
+Location         0
+Company          0
+Salary           0
+Synopsis         0
+Description      0
+URL_indeed       0
+URL_publisher    0
+Publish_date     0
+dtype: int64 missed values
+2020-07-25 20:12:32,412 - scraper_log - INFO - Information about job position Data Scientist - People Analytics downloaded with Title            0
+Location         0
+Company          0
+Salary           0
+Synopsis         0
+Description      0
+URL_indeed       0
+URL_publisher    0
+Publish_date     0
+dtype: int64 missed values
+2020-07-25 20:12:36,529 - scraper_log - INFO - Information about job position Junior Data Scientist downloaded with Title            0
+Location         0
+Company          0
+Salary           0
+Synopsis         0
+Description      0
+URL_indeed       0
+URL_publisher    0
+Publish_date     0
+dtype: int64 missed values
+2020-07-25 20:12:43,033 - scraper_log - INFO - Information about job position Student Persistence Initiative Data Analyst/Scientist downloaded with Title            0
+Location         0
+Company          0
+Salary           0
+Synopsis         0
+Description      0
+URL_indeed       0
+URL_publisher    0
+Publish_date     0
+dtype: int64 missed values
+2020-07-25 20:12:50,548 - scraper_log - INFO - Information about job position Data Scientist (Associate)-Investment Management Company downloaded with Title            0
+Location         0
+Company          0
+Salary           0
+Synopsis         0
+Description      0
+URL_indeed       0
+URL_publisher    0
+Publish_date     0
+dtype: int64 missed values
+2020-07-25 20:12:53,199 - scraper_log - INFO - Start scrapping
+2020-07-25 20:12:53,200 - scraper_log - INFO - Set last page:20
+2020-07-25 20:13:02,446 - scraper_log - INFO - Information about job position Data Scientist downloaded with Title            0
+Location         0
+Company          0
+Salary           0
+Synopsis         0
+Description      0
+URL_indeed       0
+URL_publisher    0
+Publish_date     0
+dtype: int64 missed values
+2020-07-25 20:13:09,732 - scraper_log - INFO - Information about job position Data Scientist, Platform Analytics downloaded with Title            0
+Location         0
+Company          0
+Salary           0
+Synopsis         0
+Description      0
+URL_indeed       0
+URL_publisher    0
+Publish_date     0
+dtype: int64 missed values
+2020-07-25 20:13:13,883 - scraper_log - INFO - Information about job position Data Analytics Intern downloaded with Title            0
+Location         0
+Company          0
+Salary           0
+Synopsis         0
+Description      0
+URL_indeed       0
+URL_publisher    0
+Publish_date     0
+dtype: int64 missed values
+2020-07-25 20:13:15,386 - scraper_log - INFO - Information about job position Data Scientist downloaded with Title            0
+Location         0
+Company          0
+Salary           0
+Synopsis         0
+Description      0
+URL_indeed       0
+URL_publisher    0
+Publish_date     0
+dtype: int64 missed values
+2020-07-25 20:13:18,192 - scraper_log - INFO - Information about job position Data Scientist, SoundBetter downloaded with Title            0
+Location         0
+Company          0
+Salary           0
+Synopsis         0
+Description      0
+URL_indeed       0
+URL_publisher    0
+Publish_date     0
+dtype: int64 missed values
+2020-07-25 20:13:22,698 - scraper_log - INFO - Information about job position Junior Data Scientist downloaded with Title            0
+Location         0
+Company          0
+Salary           0
+Synopsis         0
+Description      0
+URL_indeed       0
+URL_publisher    0
+Publish_date     0
+dtype: int64 missed values
+2020-07-25 20:13:27,587 - scraper_log - INFO - Information about job position Data Scientist downloaded with Title            0
+Location         0
+Company          0
+Salary           0
+Synopsis         0
+Description      0
+URL_indeed       0
+URL_publisher    0
+Publish_date     0
+dtype: int64 missed values
+2020-07-25 20:13:33,946 - scraper_log - INFO - Information about job position Data Scientist - People Analytics downloaded with Title            0
+Location         0
+Company          0
+Salary           0
+Synopsis         0
+Description      0
+URL_indeed       0
+URL_publisher    0
+Publish_date     0
+dtype: int64 missed values
+2020-07-25 20:13:40,360 - scraper_log - INFO - Information about job position Student Persistence Initiative Data Analyst/Scientist downloaded with Title            0
+Location         0
+Company          0
+Salary           0
+Synopsis         0
+Description      0
+URL_indeed       0
+URL_publisher    0
+Publish_date     0
+dtype: int64 missed values
+2020-07-25 20:13:45,870 - scraper_log - INFO - Information about job position Data scientist downloaded with Title            0
+Location         0
+Company          0
+Salary           0
+Synopsis         0
+Description      0
+URL_indeed       0
+URL_publisher    0
+Publish_date     0
+dtype: int64 missed values
+2020-07-25 20:13:50,012 - scraper_log - INFO - Information about job position Data Scientist downloaded with Title            0
+Location         0
+Company          0
+Salary           0
+Synopsis         0
+Description      0
+URL_indeed       0
+URL_publisher    0
+Publish_date     0
+dtype: int64 missed values
+2020-07-25 20:13:57,468 - scraper_log - INFO - Information about job position Data Scientist (Associate)-Investment Management Company downloaded with Title            0
+Location         0
+Company          0
+Salary           0
+Synopsis         0
+Description      0
+URL_indeed       0
+URL_publisher    0
+Publish_date     0
+dtype: int64 missed values
+2020-07-25 20:14:03,096 - scraper_log - INFO - Information about job position Sr Data Scientist - Healthcare - 71217BR downloaded with Title            0
+Location         0
+Company          0
+Salary           0
+Synopsis         0
+Description      0
+URL_indeed       0
+URL_publisher    0
+Publish_date     0
+dtype: int64 missed values
+2020-07-25 20:14:09,387 - scraper_log - INFO - Information about job position Data Scientist II downloaded with Title            0
+Location         0
+Company          0
+Salary           0
+Synopsis         0
+Description      0
+URL_indeed       0
+URL_publisher    0
+Publish_date     0
+dtype: int64 missed values
+2020-07-25 20:14:16,610 - scraper_log - INFO - Information about job position Sr. Data Scientist downloaded with Title            0
+Location         0
+Company          0
+Salary           0
+Synopsis         0
+Description      0
+URL_indeed       0
+URL_publisher    0
+Publish_date     0
+dtype: int64 missed values
+2020-07-25 20:14:18,540 - scraper_log - INFO - Adding data to the database
+2020-07-25 20:19:13,648 - scraper_log - INFO - Start scrapping
+2020-07-25 20:19:13,650 - scraper_log - INFO - Set last page:20
+2020-07-25 20:19:23,082 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-25 20:19:27,440 - scraper_log - INFO - Information about job position Data Scientist, Voter Data downloaded with 4 missed values
+2020-07-25 20:19:32,119 - scraper_log - INFO - Information about job position Data Scientist downloaded with 6 missed values
+2020-07-25 20:19:38,796 - scraper_log - INFO - Information about job position Data Scientist, Platform Analytics downloaded with 8 missed values
+2020-07-25 20:19:48,080 - scraper_log - INFO - Information about job position Sr. Data Scientist downloaded with 10 missed values
+2020-07-25 20:19:53,161 - scraper_log - INFO - Information about job position Data Scientist, Analytics & Inference downloaded with 12 missed values
+2020-07-25 20:20:00,046 - scraper_log - INFO - Information about job position Data Scientist downloaded with 14 missed values
+2020-07-25 20:20:06,276 - scraper_log - INFO - Information about job position Data Scientist, SoundBetter downloaded with 16 missed values
+2020-07-25 20:20:11,975 - scraper_log - INFO - Information about job position Data Scientist downloaded with 19 missed values
+2020-07-25 20:20:15,326 - scraper_log - INFO - Information about job position Data Analytics Intern downloaded with 20 missed values
+2020-07-25 20:20:18,022 - scraper_log - INFO - Adding data to the database
+2020-07-25 20:35:25,110 - scraper_log - INFO - Start scrapping
+2020-07-25 20:35:25,112 - scraper_log - INFO - Set last page:20
+2020-07-25 20:35:31,112 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-25 20:35:38,041 - scraper_log - INFO - Information about job position Data Scientist, SoundBetter downloaded with 2 missed values
+2020-07-25 20:35:41,822 - scraper_log - INFO - Information about job position Data Analytics Intern downloaded with 1 missed values
+2020-07-25 20:35:48,387 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-25 20:35:53,399 - scraper_log - INFO - Information about job position Data Scientist downloaded with 3 missed values
+2020-07-25 20:35:54,754 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-25 20:36:02,171 - scraper_log - INFO - Information about job position Data Scientist (Associate)-Investment Management Company downloaded with 2 missed values
+2020-07-25 20:36:08,844 - scraper_log - INFO - Information about job position Data Scientist - People Analytics downloaded with 2 missed values
+2020-07-25 20:36:15,796 - scraper_log - INFO - Information about job position Student Persistence Initiative Data Analyst/Scientist downloaded with 2 missed values
+2020-07-25 20:36:19,703 - scraper_log - INFO - Information about job position Junior Data Scientist downloaded with 2 missed values
+2020-07-25 20:36:23,883 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-25 20:36:30,076 - scraper_log - INFO - Information about job position Data Scientist II downloaded with 2 missed values
+2020-07-25 20:36:34,520 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-25 20:36:40,099 - scraper_log - INFO - Information about job position Data scientist downloaded with 2 missed values
+2020-07-25 20:36:45,669 - scraper_log - INFO - Information about job position Sr Data Scientist - Healthcare - 71217BR downloaded with 2 missed values
+2020-07-25 20:36:47,861 - scraper_log - INFO - Adding data to the database
+2020-07-25 21:11:46,013 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-07-25 21:11:46,016 - scraper_log - ERROR - please provide number more than 10 and less or equal to 50
+2020-07-25 21:16:25,542 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-07-25 21:16:25,545 - scraper_log - ERROR - please provide number more than 10 and less or equal to 50
+2020-07-25 21:17:13,031 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-07-25 21:17:13,034 - scraper_log - INFO - Set last page:20
+2020-07-25 21:17:18,897 - scraper_log - INFO - Information about job position Data Scientist, Analytics & Inference downloaded with 2 missed values
+2020-07-25 21:17:26,108 - scraper_log - INFO - Information about job position Data Scientist, Platform Analytics downloaded with 2 missed values
+2020-07-25 21:17:32,720 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-25 21:17:39,177 - scraper_log - INFO - Information about job position Data Scientist, SoundBetter downloaded with 2 missed values
+2020-07-25 21:17:45,480 - scraper_log - INFO - Information about job position Data Scientist - People Analytics downloaded with 2 missed values
+2020-07-25 21:17:51,913 - scraper_log - INFO - Information about job position Data Scientist downloaded with 3 missed values
+2020-07-25 21:17:55,965 - scraper_log - INFO - Information about job position Junior Data Scientist downloaded with 2 missed values
+2020-07-25 21:17:57,396 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-25 21:18:04,751 - scraper_log - INFO - Information about job position Student Persistence Initiative Data Analyst/Scientist downloaded with 2 missed values
+2020-07-25 21:18:12,684 - scraper_log - INFO - Information about job position Data Scientist (Associate)-Investment Management Company downloaded with 2 missed values
+2020-07-25 21:18:19,471 - scraper_log - INFO - Information about job position Sr. Data Scientist downloaded with 2 missed values
+2020-07-25 21:18:23,253 - scraper_log - INFO - Information about job position Data Scientist downloaded with 3 missed values
+2020-07-25 21:18:35,415 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-07-25 21:18:35,417 - scraper_log - INFO - Set last page:20
+2020-07-25 21:18:40,558 - scraper_log - INFO - Information about job position Data Scientist, Analytics & Inference downloaded with 2 missed values
+2020-07-25 21:18:45,737 - scraper_log - INFO - Information about job position Data Scientist, Platform Analytics downloaded with 2 missed values
+2020-07-25 21:18:52,396 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-25 21:18:58,515 - scraper_log - INFO - Information about job position Data Scientist, SoundBetter downloaded with 2 missed values
+2020-07-25 21:19:21,962 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-07-25 21:19:21,964 - scraper_log - INFO - Set last page:20
+2020-07-25 21:19:21,970 - scraper_log - INFO - Parse 10 page
+2020-07-25 21:19:28,902 - scraper_log - INFO - Information about job position Data Scientist, Analytics & Inference downloaded with 2 missed values
+2020-07-25 21:19:34,457 - scraper_log - INFO - Information about job position Data Scientist, Platform Analytics downloaded with 2 missed values
+2020-07-25 21:19:41,025 - scraper_log - INFO - Information about job position Data Scientist, SoundBetter downloaded with 2 missed values
+2020-07-25 21:19:47,956 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-25 21:19:52,274 - scraper_log - INFO - Information about job position Data Scientist downloaded with 3 missed values
+2020-07-25 21:19:57,866 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-07-25 21:19:57,868 - scraper_log - INFO - Set last page:20
+2020-07-25 21:19:57,892 - scraper_log - INFO - Parse 10 new pages
+2020-07-25 21:20:00,182 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-07-25 21:20:00,183 - scraper_log - INFO - Set last page:20
+2020-07-25 21:20:00,189 - scraper_log - INFO - Parse 10 new pages
+2020-07-25 21:20:06,014 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-25 21:20:10,867 - scraper_log - INFO - Information about job position Data Scientist, Voter Data downloaded with 2 missed values
+2020-07-25 21:20:14,552 - scraper_log - INFO - Information about job position Data Analytics Intern downloaded with 1 missed values
+2020-07-25 21:20:21,677 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-25 21:20:27,849 - scraper_log - INFO - Information about job position Sr. Data Scientist downloaded with 2 missed values
+2020-07-25 21:20:31,878 - scraper_log - INFO - Information about job position Data Scientist, Analytics & Inference downloaded with 2 missed values
+2020-07-25 21:20:37,351 - scraper_log - INFO - Information about job position Data Scientist, Platform Analytics downloaded with 2 missed values
+2020-07-25 21:20:43,965 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-25 21:20:50,352 - scraper_log - INFO - Information about job position Data Scientist, SoundBetter downloaded with 2 missed values
+2020-07-25 21:20:56,401 - scraper_log - INFO - Information about job position Data Scientist - People Analytics downloaded with 2 missed values
+2020-07-25 21:20:58,983 - scraper_log - INFO - Adding data to the database
+2020-07-25 21:21:36,728 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-07-25 21:21:36,731 - scraper_log - INFO - Set last page:50
+2020-07-25 21:21:36,738 - scraper_log - INFO - Parse 10 new pages:
+2020-07-25 21:21:44,730 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-25 21:21:49,346 - scraper_log - INFO - Information about job position Data Scientist, Voter Data downloaded with 2 missed values
+2020-07-25 21:21:52,525 - scraper_log - INFO - Information about job position Data Analytics Intern downloaded with 1 missed values
+2020-07-25 21:21:59,948 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-25 21:22:05,142 - scraper_log - INFO - Information about job position Sr. Data Scientist downloaded with 2 missed values
+2020-07-25 21:22:09,105 - scraper_log - INFO - Information about job position Data Scientist, Analytics & Inference downloaded with 2 missed values
+2020-07-25 21:22:14,747 - scraper_log - INFO - Information about job position Data Scientist, Platform Analytics downloaded with 2 missed values
+2020-07-25 21:22:21,414 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-25 21:22:27,738 - scraper_log - INFO - Information about job position Data Scientist, SoundBetter downloaded with 2 missed values
+2020-07-25 21:22:34,267 - scraper_log - INFO - Information about job position Data Scientist - People Analytics downloaded with 2 missed values
+2020-07-25 21:22:36,054 - scraper_log - INFO - Parse 20 new pages:
+2020-07-25 21:22:44,463 - scraper_log - INFO - Information about job position Sr Data Scientist - Healthcare - 71217BR downloaded with 2 missed values
+2020-07-25 21:22:48,753 - scraper_log - INFO - Information about job position Senior Data Scientist downloaded with 2 missed values
+2020-07-25 21:22:54,624 - scraper_log - INFO - Information about job position CI Data Scientist downloaded with 2 missed values
+2020-07-25 21:22:58,984 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-25 21:23:05,387 - scraper_log - INFO - Information about job position Data scientist downloaded with 2 missed values
+2020-07-25 21:23:11,504 - scraper_log - INFO - Information about job position Research Scientist-Center for Data Science downloaded with 2 missed values
+2020-07-25 21:23:16,081 - scraper_log - INFO - Information about job position Staff Data Scientist, Marketing Analytics downloaded with 2 missed values
+2020-07-25 21:23:22,002 - scraper_log - INFO - Information about job position Programmer/Data Scientist downloaded with 2 missed values
+2020-07-25 21:23:24,343 - scraper_log - INFO - Information about job position Data Scientist / Data Engineer downloaded with 3 missed values
+2020-07-25 21:23:28,452 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-25 21:23:35,280 - scraper_log - INFO - Information about job position DATA SCIENTIST downloaded with 2 missed values
+2020-07-25 21:23:41,989 - scraper_log - INFO - Information about job position Manager, Data Scientist downloaded with 2 missed values
+2020-07-25 21:23:46,221 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-25 21:23:54,899 - scraper_log - INFO - Information about job position Data Scientist, Medidata - Core downloaded with 2 missed values
+2020-07-25 21:24:03,498 - scraper_log - INFO - Information about job position Data Scientist/Engineer (SAS, R code, Python & Sql (Open to... downloaded with 2 missed values
+2020-07-25 21:24:05,370 - scraper_log - INFO - Parse 30 new pages:
+2020-07-25 21:24:12,987 - scraper_log - INFO - Information about job position Sr Data Scientist - Healthcare - 71217BR downloaded with 2 missed values
+2020-07-25 21:24:16,904 - scraper_log - INFO - Information about job position Senior Data Scientist downloaded with 2 missed values
+2020-07-25 21:24:22,722 - scraper_log - INFO - Information about job position CI Data Scientist downloaded with 2 missed values
+2020-07-25 21:24:26,833 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-25 21:24:32,887 - scraper_log - INFO - Information about job position Research Scientist-Center for Data Science downloaded with 2 missed values
+2020-07-25 21:24:38,262 - scraper_log - INFO - Information about job position Data scientist downloaded with 2 missed values
+2020-07-25 21:24:42,507 - scraper_log - INFO - Information about job position Staff Data Scientist, Marketing Analytics downloaded with 2 missed values
+2020-07-25 21:24:48,260 - scraper_log - INFO - Information about job position Programmer/Data Scientist downloaded with 2 missed values
+2020-07-25 21:24:51,722 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-25 21:24:53,068 - scraper_log - INFO - Information about job position Data Scientist / Data Engineer downloaded with 3 missed values
+2020-07-25 21:24:54,585 - scraper_log - INFO - Parse 40 new pages:
+2020-07-25 21:25:02,681 - scraper_log - INFO - Information about job position Data Scientist – Machine Learning Platform downloaded with 2 missed values
+2020-07-25 21:25:09,021 - scraper_log - INFO - Information about job position Marketing Data Scientist, gTech Professional Services downloaded with 2 missed values
+2020-07-25 21:25:15,158 - scraper_log - INFO - Information about job position Programmer/Data Scientist (Researcher) downloaded with 2 missed values
+2020-07-25 21:25:16,628 - scraper_log - INFO - Information about job position Data Scientist downloaded with 3 missed values
+2020-07-25 21:25:21,181 - scraper_log - INFO - Information about job position Statistician & Data Analysis Scientist downloaded with 2 missed values
+2020-07-25 21:25:28,762 - scraper_log - INFO - Information about job position 2020 PhD Data Scientist Internship - Uber Eats (New York) downloaded with 3 missed values
+2020-07-25 21:25:32,911 - scraper_log - INFO - Information about job position Senior Associate - HR Data Analyst downloaded with 2 missed values
+2020-07-25 21:25:39,242 - scraper_log - INFO - Information about job position Manager, Data Scientist downloaded with 2 missed values
+2020-07-25 21:25:46,212 - scraper_log - INFO - Information about job position Data Scientist, Analytics- Instagram-Family Stories downloaded with 2 missed values
+2020-07-25 21:25:51,007 - scraper_log - INFO - Information about job position Quantitative/Data Analyst Intern downloaded with 2 missed values
+2020-07-25 21:25:58,001 - scraper_log - INFO - Information about job position Data Scientist, Instagram - Well-being, Trust downloaded with 2 missed values
+2020-07-25 21:26:02,901 - scraper_log - INFO - Information about job position Data Science & Analytics Manager downloaded with 2 missed values
+2020-07-25 21:26:08,926 - scraper_log - INFO - Information about job position Data Scientist – Growth downloaded with 2 missed values
+2020-07-25 21:26:13,824 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-25 21:26:18,058 - scraper_log - INFO - Information about job position Data Scientist - Strategic Data Science downloaded with 2 missed values
+2020-07-25 21:26:21,037 - scraper_log - INFO - Adding data to the database
+2020-07-25 21:40:50,012 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-07-25 21:40:50,015 - scraper_log - INFO - Set last page: 50
+2020-07-25 21:40:50,022 - scraper_log - INFO - Scraping 10 new pages:
+2020-07-25 21:41:37,682 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-07-25 21:41:37,683 - scraper_log - INFO - Set last page: 20
+2020-07-25 21:41:37,688 - scraper_log - INFO - Scraping 10 new pages:
+2020-07-25 21:42:59,971 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-07-25 21:42:59,975 - scraper_log - INFO - Set last page: 20
+2020-07-25 21:42:59,983 - scraper_log - INFO - Scraping 10 new pages:
+2020-07-25 21:44:12,419 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-07-25 21:44:12,422 - scraper_log - INFO - Set last page: 20
+2020-07-25 21:44:12,427 - scraper_log - INFO - Scraping 10 new pages:
+2020-07-25 21:45:19,222 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-07-25 21:45:19,224 - scraper_log - INFO - Set last page: 20
+2020-07-25 21:45:19,233 - scraper_log - INFO - Scraping 10 new pages:
+2020-07-25 21:45:24,290 - scraper_log - INFO - Information about job position Data Analytics Intern downloaded with 1 missed values
+2020-07-25 21:45:29,490 - scraper_log - INFO - Information about job position Data Scientist downloaded with 3 missed values
+2020-07-25 21:45:33,833 - scraper_log - INFO - Information about job position Data Scientist, Analytics & Inference downloaded with 2 missed values
+2020-07-25 21:45:40,845 - scraper_log - INFO - Information about job position Data Scientist, SoundBetter downloaded with 2 missed values
+2020-07-25 21:45:47,695 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-25 21:45:54,549 - scraper_log - INFO - Information about job position Data Scientist (Associate)-Investment Management Company downloaded with 2 missed values
+2020-07-25 21:45:58,350 - scraper_log - INFO - Information about job position Junior Data Scientist downloaded with 2 missed values
+2020-07-25 21:46:04,724 - scraper_log - INFO - Information about job position Data Scientist - People Analytics downloaded with 2 missed values
+2020-07-25 21:46:10,994 - scraper_log - INFO - Information about job position Student Persistence Initiative Data Analyst/Scientist downloaded with 2 missed values
+2020-07-25 21:46:17,372 - scraper_log - INFO - Information about job position Sr. Data Scientist downloaded with 2 missed values
+2020-07-25 21:46:21,906 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-25 21:46:26,286 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-25 21:46:27,627 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-25 21:46:33,848 - scraper_log - INFO - Information about job position Senior Data Scientist - 66183BR downloaded with 2 missed values
+2020-07-25 21:46:40,363 - scraper_log - INFO - Information about job position Data Scientist II downloaded with 2 missed values
+2020-07-25 21:46:42,486 - scraper_log - INFO - 15 new job positions has been addad to the database
+Current number of positions in database: <sqlite3.Cursor object at 0x7f8e4e686a40>
+2020-07-25 21:46:42,487 - scraper_log - INFO - Adding data to the database
+2020-07-25 21:52:37,302 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-07-25 21:52:37,304 - scraper_log - INFO - Set last page: 20
+2020-07-25 21:52:37,313 - scraper_log - INFO - Scraping 10 new pages:
+2020-07-25 21:52:42,634 - scraper_log - INFO - Information about job position Data Analytics Intern downloaded with 1 missed values
+2020-07-25 21:52:46,675 - scraper_log - INFO - Information about job position Data Scientist, Analytics & Inference downloaded with 2 missed values
+2020-07-25 21:52:51,144 - scraper_log - INFO - Information about job position Data Scientist, Voter Data downloaded with 2 missed values
+2020-07-25 21:52:54,794 - scraper_log - INFO - Information about job position Junior Data Scientist downloaded with 2 missed values
+2020-07-25 21:53:01,225 - scraper_log - INFO - Information about job position Sr. Data Scientist downloaded with 2 missed values
+2020-07-25 21:53:06,939 - scraper_log - INFO - Information about job position Sr. Data Scientist downloaded with 2 missed values
+2020-07-25 21:53:12,087 - scraper_log - INFO - Information about job position Data Scientist downloaded with 3 missed values
+2020-07-25 21:53:13,374 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-25 21:53:19,445 - scraper_log - INFO - Information about job position Data Scientist - People Analytics downloaded with 2 missed values
+2020-07-25 21:53:27,267 - scraper_log - INFO - Information about job position Data Scientist (Associate)-Investment Management Company downloaded with 2 missed values
+2020-07-25 21:53:33,740 - scraper_log - INFO - Information about job position Student Persistence Initiative Data Analyst/Scientist downloaded with 2 missed values
+2020-07-25 21:53:38,298 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-25 21:53:42,368 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-25 21:53:47,708 - scraper_log - INFO - Information about job position Senior Data Scientist - 66183BR downloaded with 2 missed values
+2020-07-25 21:53:53,332 - scraper_log - INFO - Information about job position Sr Data Scientist - Healthcare - 71217BR downloaded with 2 missed values
+2020-07-25 21:53:55,587 - scraper_log - INFO - Adding data to the database
+2020-07-25 21:53:55,601 - scraper_log - INFO - 15 new job positions has been addad to the database
+Current number of positions in database: [(160,)]
+2020-07-25 21:56:11,529 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-07-25 21:56:11,531 - scraper_log - INFO - Set last page: 20
+2020-07-25 21:56:11,541 - scraper_log - INFO - Scraping 10 new pages:
+2020-07-25 21:56:17,938 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-25 21:56:26,577 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-25 21:56:33,234 - scraper_log - INFO - Information about job position Data Scientist, SoundBetter downloaded with 2 missed values
+2020-07-25 21:56:39,228 - scraper_log - INFO - Information about job position Data Scientist, Platform Analytics downloaded with 2 missed values
+2020-07-25 21:56:43,740 - scraper_log - INFO - Information about job position Data Scientist, Analytics & Inference downloaded with 2 missed values
+2020-07-25 21:56:48,607 - scraper_log - INFO - Information about job position Data Scientist, Voter Data downloaded with 2 missed values
+2020-07-25 21:56:52,297 - scraper_log - INFO - Information about job position Data Analytics Intern downloaded with 1 missed values
+2020-07-25 21:56:59,179 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-25 21:57:03,675 - scraper_log - INFO - Information about job position Junior Data Scientist downloaded with 2 missed values
+2020-07-25 21:57:10,246 - scraper_log - INFO - Information about job position Sr. Data Scientist downloaded with 2 missed values
+2020-07-25 21:57:12,681 - scraper_log - INFO - Adding data to the database
+2020-07-25 21:57:12,696 - scraper_log - INFO - 10 new job positions has been addad to the database
+Current number of positions in database: (170,)
+2020-07-25 21:57:29,847 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-07-25 21:57:29,850 - scraper_log - INFO - Set last page: 20
+2020-07-25 21:57:29,856 - scraper_log - INFO - Scraping 10 new pages:
+2020-07-25 21:57:35,599 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-25 21:57:42,096 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-25 21:57:48,192 - scraper_log - INFO - Information about job position Data Scientist, SoundBetter downloaded with 2 missed values
+2020-07-25 21:57:53,499 - scraper_log - INFO - Information about job position Data Scientist, Platform Analytics downloaded with 2 missed values
+2020-07-25 21:57:59,925 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-25 21:58:03,228 - scraper_log - INFO - Information about job position Data Analytics Intern downloaded with 1 missed values
+2020-07-25 21:58:07,508 - scraper_log - INFO - Information about job position Data Scientist, Analytics & Inference downloaded with 2 missed values
+2020-07-25 21:58:11,918 - scraper_log - INFO - Information about job position Data Scientist, Voter Data downloaded with 2 missed values
+2020-07-25 21:58:15,548 - scraper_log - INFO - Information about job position Junior Data Scientist downloaded with 2 missed values
+2020-07-25 21:58:21,886 - scraper_log - INFO - Information about job position Sr. Data Scientist downloaded with 2 missed values
+2020-07-25 21:58:23,110 - scraper_log - INFO - Adding data to the database
+2020-07-25 21:58:23,125 - scraper_log - INFO - 10 new job positions has been addad to the database
+Current number of positions in database: 180
+2020-07-25 22:01:00,745 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-07-25 22:01:00,747 - scraper_log - INFO - Set last page: 20
+2020-07-25 22:01:00,752 - scraper_log - INFO - Scraping 10 new pages:
+2020-07-25 22:01:07,209 - scraper_log - INFO - Information about job position Data Scientist, Voter Data downloaded with 2 missed values
+2020-07-25 22:01:10,716 - scraper_log - INFO - Information about job position Data Analytics Intern downloaded with 1 missed values
+2020-07-25 22:01:17,346 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-25 22:01:21,214 - scraper_log - INFO - Information about job position Junior Data Scientist downloaded with 2 missed values
+2020-07-25 22:01:27,150 - scraper_log - INFO - Information about job position Sr. Data Scientist downloaded with 2 missed values
+2020-07-25 22:01:28,579 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-25 22:01:35,097 - scraper_log - INFO - Information about job position Sr. Data Scientist downloaded with 2 missed values
+2020-07-25 22:01:41,234 - scraper_log - INFO - Information about job position Data Scientist - People Analytics downloaded with 2 missed values
+2020-07-25 22:01:46,331 - scraper_log - INFO - Information about job position Data Scientist downloaded with 3 missed values
+2020-07-25 22:01:53,531 - scraper_log - INFO - Information about job position Data Scientist (Associate)-Investment Management Company downloaded with 2 missed values
+2020-07-25 22:02:00,031 - scraper_log - INFO - Information about job position Student Persistence Initiative Data Analyst/Scientist downloaded with 2 missed values
+2020-07-25 22:02:04,503 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-25 22:02:10,092 - scraper_log - INFO - Information about job position Senior Data Scientist - 66183BR downloaded with 2 missed values
+2020-07-25 22:02:14,050 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-25 22:02:19,586 - scraper_log - INFO - Information about job position Sr Data Scientist - Healthcare - 71217BR downloaded with 2 missed values
+2020-07-25 22:02:20,797 - scraper_log - INFO - Adding data to the database
+2020-07-25 22:02:20,845 - scraper_log - INFO - 15 new job positions has been addad to the database
+Current number of positions: 195
+2020-07-26 09:29:55,818 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-07-26 09:29:55,822 - scraper_log - ERROR - Error code2.Function ran without parameter
+2020-07-26 09:30:31,016 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-07-26 09:30:31,020 - scraper_log - INFO - Set last page: 20
+2020-07-26 09:33:16,734 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-07-26 09:33:16,736 - scraper_log - INFO - Set last page: 20
+2020-07-26 09:33:49,149 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-07-26 09:33:49,150 - scraper_log - INFO - Set last page: 20
+2020-07-26 09:36:10,423 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-07-26 09:36:10,426 - scraper_log - INFO - Set last page: 20
+2020-07-26 09:37:06,852 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-07-26 09:37:06,853 - scraper_log - INFO - Set last page: 20
+2020-07-26 09:37:29,763 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-07-26 09:37:29,764 - scraper_log - INFO - Set last page: 20
+2020-07-26 09:37:30,808 - scraper_log - INFO - Adding data to the database
+2020-07-26 09:37:30,814 - scraper_log - INFO - 0 new job positions has been addad to the database
+Current number of positions: 195
+2020-07-26 13:50:27,079 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-07-26 13:50:27,082 - scraper_log - INFO - Set last page: 20
+2020-07-26 13:50:28,625 - scraper_log - INFO - Adding data to the database
+2020-07-26 13:50:28,629 - scraper_log - INFO - 0 new job positions has been addad to the database
+Current number of positions: 195
+2020-07-26 13:53:13,920 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-07-26 13:53:13,925 - scraper_log - INFO - Set last page: 20
+2020-07-26 13:56:31,968 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-07-26 13:56:31,971 - scraper_log - INFO - Set last page: 20
+2020-07-26 14:02:54,331 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-07-26 14:02:54,335 - scraper_log - INFO - Set last page: 20
+2020-07-26 14:02:59,508 - scraper_log - INFO - Information about job position Junior Data Scientist downloaded with 2 missed values
+2020-07-26 14:03:03,149 - scraper_log - INFO - Information about job position Data Analytics Intern downloaded with 1 missed values
+2020-07-26 14:03:06,951 - scraper_log - INFO - Information about job position Data Scientist, Analytics & Inference downloaded with 2 missed values
+2020-07-26 14:03:12,664 - scraper_log - INFO - Information about job position Data Scientist downloaded with 3 missed values
+2020-07-26 14:03:19,732 - scraper_log - INFO - Information about job position Sr Data Scientist - Healthcare - 71217BR downloaded with 2 missed values
+2020-07-26 14:03:25,879 - scraper_log - INFO - Information about job position Data Scientist, SoundBetter downloaded with 2 missed values
+2020-07-26 14:03:32,006 - scraper_log - INFO - Information about job position Data Scientist - People Analytics downloaded with 2 missed values
+2020-07-26 14:03:37,985 - scraper_log - INFO - Information about job position Senior Data Scientist - 66183BR downloaded with 2 missed values
+2020-07-26 14:03:42,909 - scraper_log - INFO - Information about job position Data Scientist, Voter Data downloaded with 2 missed values
+2020-07-26 14:03:49,436 - scraper_log - INFO - Information about job position Data Scientist (Associate)-Investment Management Company downloaded with 2 missed values
+2020-07-26 14:03:56,775 - scraper_log - INFO - Information about job position Student Persistence Initiative Data Analyst/Scientist downloaded with 2 missed values
+2020-07-26 14:03:58,106 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-26 14:04:02,983 - scraper_log - INFO - Information about job position Senior Data Scientist downloaded with 2 missed values
+2020-07-26 14:04:09,766 - scraper_log - INFO - Information about job position Sr. Data Scientist downloaded with 2 missed values
+2020-07-26 14:04:13,830 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-26 14:04:15,972 - scraper_log - INFO - Adding data to the database
+2020-07-26 14:04:15,989 - scraper_log - INFO - 15 new job positions has been addad to the database
+Current number of positions: 210
+2020-07-26 14:04:26,431 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-07-26 14:04:26,434 - scraper_log - INFO - Set last page: 20
+2020-07-26 14:04:31,389 - scraper_log - INFO - Information about job position Junior Data Scientist downloaded with 2 missed values
+2020-07-26 14:04:35,173 - scraper_log - INFO - Information about job position Data Analytics Intern downloaded with 1 missed values
+2020-07-26 14:04:38,659 - scraper_log - INFO - Information about job position Data Scientist, Analytics & Inference downloaded with 2 missed values
+2020-07-26 14:04:44,109 - scraper_log - INFO - Information about job position Data Scientist downloaded with 3 missed values
+2020-07-26 14:04:49,271 - scraper_log - INFO - Information about job position Sr Data Scientist - Healthcare - 71217BR downloaded with 2 missed values
+2020-07-26 14:04:54,944 - scraper_log - INFO - Information about job position Data Scientist, SoundBetter downloaded with 2 missed values
+2020-07-26 14:05:00,015 - scraper_log - INFO - Information about job position Data Scientist - People Analytics downloaded with 2 missed values
+2020-07-26 14:05:05,682 - scraper_log - INFO - Information about job position Senior Data Scientist - 66183BR downloaded with 2 missed values
+2020-07-26 14:05:09,890 - scraper_log - INFO - Information about job position Data Scientist, Voter Data downloaded with 2 missed values
+2020-07-26 14:05:16,006 - scraper_log - INFO - Information about job position Data Scientist (Associate)-Investment Management Company downloaded with 2 missed values
+2020-07-26 14:05:22,684 - scraper_log - INFO - Information about job position Student Persistence Initiative Data Analyst/Scientist downloaded with 2 missed values
+2020-07-26 14:05:23,958 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-26 14:05:27,588 - scraper_log - INFO - Information about job position Senior Data Scientist downloaded with 2 missed values
+2020-07-26 14:05:33,434 - scraper_log - INFO - Information about job position Sr. Data Scientist downloaded with 2 missed values
+2020-07-26 14:05:39,999 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-26 14:05:41,792 - scraper_log - INFO - Adding data to the database
+2020-07-26 14:05:41,805 - scraper_log - INFO - 15 new job positions has been addad to the database
+Current number of positions: 225
+2020-07-26 14:07:22,472 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-07-26 14:07:22,475 - scraper_log - INFO - Set last page: 20
+2020-07-26 14:08:11,697 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-07-26 14:08:11,700 - scraper_log - INFO - Set last page: 20
+2020-07-26 14:08:16,944 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-26 14:08:22,792 - scraper_log - INFO - Information about job position Sr. Data Scientist downloaded with 2 missed values
+2020-07-26 14:08:29,285 - scraper_log - INFO - Information about job position Data Scientist, Platform Analytics downloaded with 2 missed values
+2020-07-26 14:08:36,354 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-26 14:08:42,129 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-26 14:08:45,410 - scraper_log - INFO - Information about job position Data Analytics Intern downloaded with 1 missed values
+2020-07-26 14:08:48,595 - scraper_log - INFO - Information about job position Junior Data Scientist downloaded with 2 missed values
+2020-07-26 14:08:54,001 - scraper_log - INFO - Information about job position Data Scientist downloaded with 3 missed values
+2020-07-26 14:08:57,490 - scraper_log - INFO - Information about job position Data Scientist, Analytics & Inference downloaded with 2 missed values
+2020-07-26 14:09:03,146 - scraper_log - INFO - Information about job position Data Scientist, SoundBetter downloaded with 2 missed values
+2020-07-26 14:09:05,501 - scraper_log - INFO - Adding data to the database
+2020-07-26 14:09:05,515 - scraper_log - INFO - 10 new job positions has been added to the database
+2020-07-26 14:09:05,515 - scraper_log - INFO - Current number of positions: 235
+2020-07-26 14:21:34,755 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-07-26 14:21:34,757 - scraper_log - INFO - Set last page: 20
+2020-07-26 14:21:39,766 - scraper_log - INFO - Information about job position Data Analytics Intern downloaded with 1 missed values
+2020-07-26 14:21:43,760 - scraper_log - INFO - Information about job position Junior Data Scientist downloaded with 2 missed values
+2020-07-26 14:21:49,721 - scraper_log - INFO - Information about job position Data Scientist downloaded with 3 missed values
+2020-07-26 14:21:53,269 - scraper_log - INFO - Information about job position Data Scientist, Analytics & Inference downloaded with 2 missed values
+2020-07-26 14:21:58,745 - scraper_log - INFO - Information about job position Data Scientist, SoundBetter downloaded with 2 missed values
+2020-07-26 14:22:04,044 - scraper_log - INFO - Information about job position Sr Data Scientist - Healthcare - 71217BR downloaded with 2 missed values
+2020-07-26 14:22:08,527 - scraper_log - INFO - Information about job position Data Scientist, Voter Data downloaded with 2 missed values
+2020-07-26 14:22:13,903 - scraper_log - INFO - Information about job position Student Persistence Initiative Data Analyst/Scientist downloaded with 2 missed values
+2020-07-26 14:22:20,660 - scraper_log - INFO - Information about job position Data Scientist (Associate)-Investment Management Company downloaded with 2 missed values
+2020-07-26 14:22:26,437 - scraper_log - INFO - Information about job position Senior Data Scientist - 66183BR downloaded with 2 missed values
+2020-07-26 14:22:32,795 - scraper_log - INFO - Information about job position Data Scientist - People Analytics downloaded with 2 missed values
+2020-07-26 14:22:37,243 - scraper_log - INFO - Information about job position Senior Data Scientist downloaded with 2 missed values
+2020-07-26 14:22:43,762 - scraper_log - INFO - Information about job position Sr. Data Scientist downloaded with 2 missed values
+2020-07-26 14:22:47,709 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-26 14:22:53,900 - scraper_log - INFO - Information about job position CI Data Scientist downloaded with 2 missed values
+2020-07-26 14:22:54,970 - scraper_log - INFO - Adding data to the database
+2020-07-26 14:22:55,006 - scraper_log - INFO - 15 new job positions has been added to the database
+2020-07-26 14:22:55,006 - scraper_log - INFO - Current number of positions: 250
+2020-07-26 14:27:41,646 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-07-26 14:27:41,648 - scraper_log - INFO - Set last page: 30
+2020-07-26 14:27:43,694 - scraper_log - INFO - Scraping batch of 2 pages
+2020-07-26 14:27:48,430 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-26 14:27:55,520 - scraper_log - INFO - Information about job position Sr. Data Scientist downloaded with 2 missed values
+2020-07-26 14:28:03,397 - scraper_log - INFO - Information about job position Data Scientist, Platform Analytics downloaded with 2 missed values
+2020-07-26 14:28:10,838 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-26 14:28:18,029 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-26 14:28:22,502 - scraper_log - INFO - Information about job position Data Analytics Intern downloaded with 1 missed values
+2020-07-26 14:28:26,610 - scraper_log - INFO - Information about job position Junior Data Scientist downloaded with 2 missed values
+2020-07-26 14:28:34,484 - scraper_log - INFO - Information about job position Data Scientist downloaded with 3 missed values
+2020-07-26 14:28:39,002 - scraper_log - INFO - Information about job position Data Scientist, Analytics & Inference downloaded with 2 missed values
+2020-07-26 14:28:46,340 - scraper_log - INFO - Information about job position Data Scientist, SoundBetter downloaded with 2 missed values
+2020-07-26 14:28:46,496 - scraper_log - INFO - Scraping batch of 2 pages
+2020-07-26 14:28:51,300 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-26 14:28:57,998 - scraper_log - INFO - Information about job position Research Scientist-Center for Data Science downloaded with 2 missed values
+2020-07-26 14:29:03,166 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-26 14:29:10,207 - scraper_log - INFO - Information about job position Data Scientist II downloaded with 2 missed values
+2020-07-26 14:29:20,054 - scraper_log - INFO - Information about job position Data Scientist/Engineer (SAS, R code, Python & Sql (Open to... downloaded with 2 missed values
+2020-07-26 14:29:30,537 - scraper_log - INFO - Information about job position Data Scientist, Medidata - Core downloaded with 2 missed values
+2020-07-26 14:29:32,152 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-26 14:29:33,710 - scraper_log - INFO - Information about job position Data Scientist / Data Engineer downloaded with 3 missed values
+2020-07-26 14:29:40,249 - scraper_log - INFO - Information about job position Manager, Data Scientist downloaded with 2 missed values
+2020-07-26 14:29:44,409 - scraper_log - INFO - Information about job position Staff Data Scientist, Marketing Analytics downloaded with 2 missed values
+2020-07-26 14:29:48,192 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-26 14:29:53,676 - scraper_log - INFO - Information about job position Programmer/Data Scientist downloaded with 2 missed values
+2020-07-26 14:30:00,177 - scraper_log - INFO - Information about job position DATA SCIENTIST downloaded with 2 missed values
+2020-07-26 14:30:07,002 - scraper_log - INFO - Information about job position Data scientist downloaded with 2 missed values
+2020-07-26 14:30:12,933 - scraper_log - INFO - Information about job position Data Scientist, Android Go-To-Market downloaded with 2 missed values
+2020-07-26 14:30:14,039 - scraper_log - INFO - Adding data to the database
+2020-07-26 14:30:14,080 - scraper_log - INFO - 25 new job positions has been added to the database
+2020-07-26 14:30:14,080 - scraper_log - INFO - Current number of positions: 275
+2020-07-26 14:35:39,941 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-07-26 14:35:39,943 - scraper_log - INFO - Set last page: 30
+2020-07-26 14:35:41,811 - scraper_log - INFO - Scraping 0 of 2 pages
+2020-07-26 14:35:45,521 - scraper_log - INFO - Information about job position Junior Data Scientist downloaded with 2 missed values
+2020-07-26 14:35:48,994 - scraper_log - INFO - Information about job position Data Analytics Intern downloaded with 1 missed values
+2020-07-26 14:35:52,579 - scraper_log - INFO - Information about job position Data Scientist, Analytics & Inference downloaded with 2 missed values
+2020-07-26 14:35:58,291 - scraper_log - INFO - Information about job position Data Scientist downloaded with 3 missed values
+2020-07-26 14:36:03,694 - scraper_log - INFO - Information about job position Sr Data Scientist - Healthcare - 71217BR downloaded with 2 missed values
+2020-07-26 14:36:09,455 - scraper_log - INFO - Information about job position Data Scientist, SoundBetter downloaded with 2 missed values
+2020-07-26 14:36:15,327 - scraper_log - INFO - Information about job position Data Scientist - People Analytics downloaded with 2 missed values
+2020-07-26 14:36:20,852 - scraper_log - INFO - Information about job position Senior Data Scientist - 66183BR downloaded with 2 missed values
+2020-07-26 14:36:25,674 - scraper_log - INFO - Information about job position Data Scientist, Voter Data downloaded with 2 missed values
+2020-07-26 14:36:32,109 - scraper_log - INFO - Information about job position Data Scientist (Associate)-Investment Management Company downloaded with 2 missed values
+2020-07-26 14:36:38,196 - scraper_log - INFO - Information about job position Student Persistence Initiative Data Analyst/Scientist downloaded with 2 missed values
+2020-07-26 14:36:39,600 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-26 14:36:43,858 - scraper_log - INFO - Information about job position Senior Data Scientist downloaded with 2 missed values
+2020-07-26 14:36:50,458 - scraper_log - INFO - Information about job position Sr. Data Scientist downloaded with 2 missed values
+2020-07-26 14:36:54,481 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-26 14:36:54,626 - scraper_log - INFO - Scraping 1 of 2 pages
+2020-07-26 14:36:58,615 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-26 14:37:04,416 - scraper_log - INFO - Information about job position Research Scientist-Center for Data Science downloaded with 2 missed values
+2020-07-26 14:37:08,288 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-26 14:37:13,697 - scraper_log - INFO - Information about job position Data Scientist II downloaded with 2 missed values
+2020-07-26 14:37:21,667 - scraper_log - INFO - Information about job position Data Scientist/Engineer (SAS, R code, Python & Sql (Open to... downloaded with 2 missed values
+2020-07-26 14:37:28,932 - scraper_log - INFO - Information about job position Data Scientist, Medidata - Core downloaded with 2 missed values
+2020-07-26 14:37:30,171 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-26 14:37:31,381 - scraper_log - INFO - Information about job position Data Scientist / Data Engineer downloaded with 3 missed values
+2020-07-26 14:37:36,949 - scraper_log - INFO - Information about job position Manager, Data Scientist downloaded with 2 missed values
+2020-07-26 14:37:41,443 - scraper_log - INFO - Information about job position Staff Data Scientist, Marketing Analytics downloaded with 2 missed values
+2020-07-26 14:37:45,380 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-26 14:37:52,949 - scraper_log - INFO - Information about job position Programmer/Data Scientist downloaded with 2 missed values
+2020-07-26 14:38:00,817 - scraper_log - INFO - Information about job position DATA SCIENTIST downloaded with 2 missed values
+2020-07-26 14:38:07,320 - scraper_log - INFO - Information about job position Data scientist downloaded with 2 missed values
+2020-07-26 14:38:14,148 - scraper_log - INFO - Information about job position Data Scientist, Android Go-To-Market downloaded with 2 missed values
+2020-07-26 14:38:16,868 - scraper_log - INFO - Adding data to the database
+2020-07-26 14:38:16,908 - scraper_log - INFO - 30 new job positions has been added to the database
+2020-07-26 14:38:16,909 - scraper_log - INFO - Current number of positions: 305
+2020-07-26 14:38:49,940 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-07-26 14:38:49,942 - scraper_log - INFO - Set last page: 30
+2020-07-26 14:38:51,817 - scraper_log - INFO - Scraping 1 of 2 pages
+2020-07-26 14:38:55,742 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-26 14:39:01,848 - scraper_log - INFO - Information about job position Sr. Data Scientist downloaded with 2 missed values
+2020-07-26 14:39:08,087 - scraper_log - INFO - Information about job position Data Scientist, Platform Analytics downloaded with 2 missed values
+2020-07-26 14:39:14,694 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-26 14:39:20,703 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-26 14:39:24,420 - scraper_log - INFO - Information about job position Data Analytics Intern downloaded with 1 missed values
+2020-07-26 14:39:30,350 - scraper_log - INFO - Information about job position Data Scientist downloaded with 3 missed values
+2020-07-26 14:39:33,701 - scraper_log - INFO - Information about job position Junior Data Scientist downloaded with 2 missed values
+2020-07-26 14:39:39,599 - scraper_log - INFO - Information about job position Data Scientist, SoundBetter downloaded with 2 missed values
+2020-07-26 14:39:43,037 - scraper_log - INFO - Information about job position Data Scientist, Analytics & Inference downloaded with 2 missed values
+2020-07-26 14:39:43,177 - scraper_log - INFO - Scraping 2 of 2 pages
+2020-07-26 14:39:46,744 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-26 14:39:52,338 - scraper_log - INFO - Information about job position Research Scientist-Center for Data Science downloaded with 2 missed values
+2020-07-26 14:39:56,616 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-26 14:40:01,638 - scraper_log - INFO - Information about job position Data Scientist II downloaded with 2 missed values
+2020-07-26 14:40:09,202 - scraper_log - INFO - Information about job position Data Scientist/Engineer (SAS, R code, Python & Sql (Open to... downloaded with 2 missed values
+2020-07-26 14:40:10,583 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-26 14:40:11,767 - scraper_log - INFO - Information about job position Data Scientist / Data Engineer downloaded with 3 missed values
+2020-07-26 14:40:17,296 - scraper_log - INFO - Information about job position Manager, Data Scientist downloaded with 2 missed values
+2020-07-26 14:40:21,291 - scraper_log - INFO - Information about job position Staff Data Scientist, Marketing Analytics downloaded with 2 missed values
+2020-07-26 14:40:26,539 - scraper_log - INFO - Information about job position Programmer/Data Scientist downloaded with 2 missed values
+2020-07-26 14:40:31,906 - scraper_log - INFO - Information about job position DATA SCIENTIST downloaded with 2 missed values
+2020-07-26 14:40:34,729 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-26 14:40:40,024 - scraper_log - INFO - Information about job position Data scientist downloaded with 2 missed values
+2020-07-26 14:40:44,983 - scraper_log - INFO - Information about job position Data Scientist, Android Go-To-Market downloaded with 2 missed values
+2020-07-26 14:40:52,316 - scraper_log - INFO - Information about job position Data Scientist, Medidata - Core downloaded with 2 missed values
+2020-07-26 14:40:52,324 - scraper_log - INFO - Adding data to the database
+2020-07-26 14:40:52,343 - scraper_log - INFO - 25 new job positions has been added to the database
+2020-07-26 14:40:52,343 - scraper_log - INFO - Current number of positions: 330
+2020-07-26 18:55:38,157 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-07-26 18:55:38,165 - scraper_log - INFO - Set last page: 30
+2020-07-26 18:55:40,082 - scraper_log - INFO - Scraping 1 of 2 pages
+2020-07-26 19:01:33,652 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-07-26 19:01:33,655 - scraper_log - INFO - Set last page: 30
+2020-07-26 19:01:35,317 - scraper_log - INFO - Scraping 1 of 2 pages
+2020-07-26 19:02:27,738 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-07-26 19:02:27,739 - scraper_log - INFO - Set last page: 30
+2020-07-26 19:02:29,420 - scraper_log - INFO - Scraping 1 of 2 pages
+2020-07-26 19:03:46,677 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-07-26 19:03:46,682 - scraper_log - INFO - Set last page: 30
+2020-07-26 19:03:48,374 - scraper_log - INFO - Scraping 1 of 2 pages
+2020-07-26 19:04:16,468 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-07-26 19:04:16,471 - scraper_log - INFO - Set last page: 30
+2020-07-26 19:04:18,177 - scraper_log - INFO - Scraping 1 of 2 pages
+2020-07-26 19:06:25,245 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-07-26 19:06:25,247 - scraper_log - INFO - Set last page: 30
+2020-07-26 19:06:26,903 - scraper_log - INFO - Scraping 1 of 2 pages
+2020-07-26 19:07:46,574 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-07-26 19:07:46,577 - scraper_log - INFO - Set last page: 30
+2020-07-26 19:07:48,257 - scraper_log - INFO - Scraping 1 of 2 pages
+2020-07-26 19:07:54,569 - scraper_log - INFO - Information about job position Student Persistence Initiative Data Analyst/Scientist downloaded with 2 missed values
+2020-07-26 19:10:26,411 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-07-26 19:10:26,413 - scraper_log - INFO - Set last page: 30
+2020-07-26 19:10:28,127 - scraper_log - INFO - Scraping 1 of 2 pages
+2020-07-26 19:10:33,382 - scraper_log - INFO - Information about job position Student Persistence Initiative Data Analyst/Scientist downloaded with 2 missed values
+2020-07-26 19:12:03,744 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-07-26 19:12:03,746 - scraper_log - INFO - Set last page: 30
+2020-07-26 19:12:05,410 - scraper_log - INFO - Scraping 1 of 2 pages
+2020-07-26 19:12:10,745 - scraper_log - INFO - Information about job position Student Persistence Initiative Data Analyst/Scientist downloaded with 2 missed values
+2020-07-26 19:12:52,628 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-07-26 19:12:52,630 - scraper_log - INFO - Set last page: 30
+2020-07-26 19:12:54,509 - scraper_log - INFO - Scraping 1 of 2 pages
+2020-07-26 19:22:19,113 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-07-26 19:22:19,115 - scraper_log - INFO - Set last page: 30
+2020-07-26 19:22:20,914 - scraper_log - INFO - Scraping 1 of 2 pages
+2020-07-26 19:23:33,586 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-07-26 19:23:33,589 - scraper_log - INFO - Set last page: 30
+2020-07-26 19:23:35,544 - scraper_log - INFO - Scraping 1 of 2 pages
+2020-07-26 19:23:43,300 - scraper_log - INFO - Information about job position Student Persistence Initiative Data Analyst/Scientist downloaded with 2 missed values
+2020-07-26 19:23:53,092 - scraper_log - INFO - Information about job position CIB Wholesale Payments Data and Analytics - Data Scientist downloaded with 2 missed values
+2020-07-26 19:24:00,489 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-26 19:24:05,358 - scraper_log - INFO - Information about job position Junior Data Scientist downloaded with 2 missed values
+2020-07-26 19:24:12,634 - scraper_log - INFO - Information about job position Data Scientist, SoundBetter downloaded with 2 missed values
+2020-07-26 19:24:19,608 - scraper_log - INFO - Information about job position Data Scientist, Platform Analytics downloaded with 2 missed values
+2020-07-26 19:24:24,464 - scraper_log - INFO - Information about job position Data Scientist, Analytics & Inference downloaded with 2 missed values
+2020-07-26 19:24:29,626 - scraper_log - INFO - Information about job position Data Scientist, Voter Data downloaded with 2 missed values
+2020-07-26 19:24:34,384 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-26 19:24:41,225 - scraper_log - INFO - Information about job position Data Scientist - People Analytics downloaded with 2 missed values
+2020-07-26 19:24:47,729 - scraper_log - INFO - Information about job position CI Data Scientist downloaded with 2 missed values
+2020-07-26 19:24:54,215 - scraper_log - INFO - Information about job position Senior Data Scientist - 66183BR downloaded with 2 missed values
+2020-07-26 19:24:59,621 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-26 19:25:05,195 - scraper_log - INFO - Information about job position Sr Data Scientist - Healthcare - 71217BR downloaded with 2 missed values
+2020-07-26 19:25:13,216 - scraper_log - INFO - Information about job position Data Scientist (Associate)-Investment Management Company downloaded with 2 missed values
+2020-07-26 19:25:13,334 - scraper_log - INFO - Scraping 2 of 2 pages
+2020-07-26 19:25:21,034 - scraper_log - INFO - Information about job position Research Scientist-Center for Data Science downloaded with 2 missed values
+2020-07-26 19:25:23,257 - scraper_log - INFO - Information about job position Data Scientist / Data Engineer downloaded with 3 missed values
+2020-07-26 19:25:31,244 - scraper_log - INFO - Information about job position Data Scientist II downloaded with 2 missed values
+2020-07-26 19:25:36,403 - scraper_log - INFO - Information about job position Senior Data Scientist downloaded with 2 missed values
+2020-07-26 19:25:41,379 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-26 19:25:43,457 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-26 19:25:50,651 - scraper_log - INFO - Information about job position Sr. Data Scientist downloaded with 2 missed values
+2020-07-26 19:25:55,964 - scraper_log - INFO - Information about job position Programmer/Data Scientist downloaded with 2 missed values
+2020-07-26 19:26:02,591 - scraper_log - INFO - Information about job position Manager, Data Scientist downloaded with 2 missed values
+2020-07-26 19:26:07,479 - scraper_log - INFO - Information about job position Staff Data Scientist, Marketing Analytics downloaded with 2 missed values
+2020-07-26 19:26:11,970 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-26 19:26:18,118 - scraper_log - INFO - Information about job position Data Scientist, Android Go-To-Market downloaded with 2 missed values
+2020-07-26 19:26:27,387 - scraper_log - INFO - Information about job position Data Scientist, Medidata - Core downloaded with 2 missed values
+2020-07-26 19:26:34,517 - scraper_log - INFO - Information about job position Data Scientist/Engineer (SAS, R code, Python & Sql (Open to... downloaded with 2 missed values
+2020-07-26 19:26:38,418 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-07-26 19:26:38,419 - scraper_log - INFO - Set last page: 30
+2020-07-26 19:26:39,972 - scraper_log - INFO - Scraping 1 of 2 pages
+2020-07-26 19:26:46,716 - scraper_log - INFO - Information about job position Sr. Data Scientist downloaded with 2 missed values
+2020-07-26 19:26:54,123 - scraper_log - INFO - Information about job position Data Scientist downloaded with 3 missed values
+2020-07-26 19:26:58,661 - scraper_log - INFO - Information about job position Data Analytics Intern downloaded with 1 missed values
+2020-07-26 19:27:05,982 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-26 19:27:10,905 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-26 19:27:17,395 - scraper_log - INFO - Information about job position Student Persistence Initiative Data Analyst/Scientist downloaded with 2 missed values
+2020-07-26 19:27:26,118 - scraper_log - INFO - Information about job position CIB Wholesale Payments Data and Analytics - Data Scientist downloaded with 2 missed values
+2020-07-26 19:27:32,808 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-26 19:27:37,189 - scraper_log - INFO - Information about job position Junior Data Scientist downloaded with 2 missed values
+2020-07-26 19:27:44,613 - scraper_log - INFO - Information about job position Data Scientist, SoundBetter downloaded with 2 missed values
+2020-07-26 19:27:44,704 - scraper_log - INFO - Scraping 2 of 2 pages
+2020-07-26 19:27:52,944 - scraper_log - INFO - Information about job position Data Scientist (Associate)-Investment Management Company downloaded with 2 missed values
+2020-07-26 19:27:55,211 - scraper_log - INFO - Information about job position Data Scientist / Data Engineer downloaded with 3 missed values
+2020-07-26 19:28:00,383 - scraper_log - INFO - Information about job position Senior Data Scientist downloaded with 2 missed values
+2020-07-26 19:28:08,387 - scraper_log - INFO - Information about job position Research Scientist-Center for Data Science downloaded with 2 missed values
+2020-07-26 19:28:15,470 - scraper_log - INFO - Information about job position Data Scientist II downloaded with 2 missed values
+2020-07-26 19:28:21,541 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-26 19:28:28,864 - scraper_log - INFO - Information about job position Sr. Data Scientist downloaded with 2 missed values
+2020-07-26 19:28:36,003 - scraper_log - INFO - Information about job position Manager, Data Scientist downloaded with 2 missed values
+2020-07-26 19:28:41,846 - scraper_log - INFO - Information about job position Programmer/Data Scientist downloaded with 2 missed values
+2020-07-26 19:28:46,416 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-26 19:28:52,082 - scraper_log - INFO - Information about job position Staff Data Scientist, Marketing Analytics downloaded with 2 missed values
+2020-07-26 19:28:58,650 - scraper_log - INFO - Information about job position Data Scientist, Android Go-To-Market downloaded with 2 missed values
+2020-07-26 19:29:06,536 - scraper_log - INFO - Information about job position Data scientist downloaded with 2 missed values
+2020-07-26 19:29:15,530 - scraper_log - INFO - Information about job position Data Scientist, Medidata - Core downloaded with 2 missed values
+2020-07-26 19:29:23,647 - scraper_log - INFO - Information about job position Data Scientist/Engineer (SAS, R code, Python & Sql (Open to... downloaded with 2 missed values
+2020-07-26 19:29:23,654 - scraper_log - INFO - Adding data to the database
+2020-07-26 19:29:23,683 - scraper_log - INFO - 25 new job positions has been added to the database
+2020-07-26 19:29:23,683 - scraper_log - INFO - Current number of positions: 355
+2020-07-26 19:32:56,211 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-07-26 19:32:56,213 - scraper_log - INFO - Set last page: 30
+2020-07-26 19:32:57,957 - scraper_log - INFO - Scraping 1 of 2 pages
+2020-07-26 19:33:07,302 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-26 19:33:16,661 - scraper_log - INFO - Information about job position Data Scientist downloaded with 3 missed values
+2020-07-26 20:16:16,802 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-07-26 20:16:16,804 - scraper_log - INFO - Set last page: 30
+2020-07-26 20:16:19,089 - scraper_log - INFO - Scraping 1 of 2 pages
+2020-07-26 20:16:57,347 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-07-26 20:16:57,350 - scraper_log - INFO - Set last page: 30
+2020-07-26 20:16:59,059 - scraper_log - INFO - Scraping 1 of 2 pages
+2020-07-26 20:17:13,259 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-07-26 20:17:13,260 - scraper_log - INFO - Set last page: 30
+2020-07-26 20:17:14,732 - scraper_log - INFO - Scraping 1 of 2 pages
+2020-07-26 20:18:37,913 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-07-26 20:18:37,938 - scraper_log - INFO - Set last page: 30
+2020-07-26 20:18:39,918 - scraper_log - INFO - Scraping 1 of 2 pages
+2020-07-26 20:19:15,222 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-07-26 20:19:15,225 - scraper_log - INFO - Set last page: 30
+2020-07-26 20:19:16,887 - scraper_log - INFO - Scraping 1 of 2 pages
+2020-07-26 20:19:27,194 - scraper_log - INFO - Information about job position Data Scientist downloaded with 3 missed values
+2020-07-26 20:20:03,814 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-07-26 20:20:03,817 - scraper_log - INFO - Set last page: 30
+2020-07-26 20:20:05,806 - scraper_log - INFO - Scraping 1 of 2 pages
+2020-07-26 20:25:11,910 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-07-26 20:25:11,912 - scraper_log - INFO - Set last page: 30
+2020-07-26 20:25:13,679 - scraper_log - INFO - Scraping 1 of 2 pages
+2020-07-26 20:25:23,324 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-26 20:25:30,477 - scraper_log - INFO - Information about job position Data Scientist, Analytics & Inference downloaded with 2 missed values
+2020-07-26 20:36:12,260 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-07-26 20:36:12,263 - scraper_log - INFO - Set last page: 30
+2020-07-26 20:36:13,927 - scraper_log - INFO - Scraping 1 of 2 pages
+2020-07-26 20:37:27,184 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-07-26 20:37:27,187 - scraper_log - INFO - Set last page: 30
+2020-07-26 20:37:28,896 - scraper_log - INFO - Scraping 1 of 2 pages
+2020-07-26 20:37:36,191 - scraper_log - INFO - Information about job position Data Scientist, Analytics & Inference downloaded with 2 missed values
+2020-07-26 20:37:39,950 - scraper_log - WARNING - Can't find page of Research Foundation of The City University of New... on wikipedia
+2020-07-26 20:38:55,637 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-07-26 20:38:55,640 - scraper_log - INFO - Set last page: 30
+2020-07-26 20:38:57,225 - scraper_log - INFO - Scraping 1 of 2 pages
+2020-07-26 20:39:04,663 - scraper_log - INFO - Information about job position Data Scientist, Analytics & Inference downloaded with 2 missed values
+2020-07-26 20:39:33,182 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-07-26 20:39:33,183 - scraper_log - INFO - Set last page: 30
+2020-07-26 20:39:34,563 - scraper_log - INFO - Scraping 1 of 2 pages
+2020-07-26 20:39:44,608 - scraper_log - INFO - Information about job position Data Scientist downloaded with 3 missed values
+2020-07-26 20:39:48,946 - scraper_log - WARNING - Can't find page of Research Foundation of The City University of New... on wikipedia
+2020-07-26 20:39:55,375 - scraper_log - INFO - Information about job position Student Persistence Initiative Data Analyst/Scientist downloaded with 2 missed values
+2020-07-26 20:44:39,498 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-07-26 20:44:39,500 - scraper_log - INFO - Set last page: 30
+2020-07-26 20:44:41,397 - scraper_log - INFO - Scraping 1 of 2 pages
+2020-07-26 20:44:46,558 - scraper_log - INFO - Information about job position Data Analytics Intern downloaded with 1 missed values
+2020-07-26 20:44:54,366 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-26 20:45:02,520 - scraper_log - INFO - Information about job position Sr. Data Scientist downloaded with 2 missed values
+2020-07-26 20:45:08,823 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-26 20:45:15,960 - scraper_log - INFO - Information about job position Data Scientist downloaded with 3 missed values
+2020-07-26 20:45:16,794 - scraper_log - WARNING - Can't find page of Research Foundation of The City University of New... on wikipedia
+2020-07-26 20:45:23,525 - scraper_log - INFO - Information about job position Student Persistence Initiative Data Analyst/Scientist downloaded with 2 missed values
+2020-07-26 20:45:30,228 - scraper_log - INFO - Information about job position Data Scientist, Platform Analytics downloaded with 2 missed values
+2020-07-26 20:45:35,273 - scraper_log - INFO - Information about job position Data Scientist, Analytics & Inference downloaded with 2 missed values
+2020-07-26 20:45:42,199 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-26 20:45:43,027 - scraper_log - WARNING - Can't find page of Decode_M on wikipedia
+2020-07-26 20:45:46,448 - scraper_log - INFO - Information about job position Junior Data Scientist downloaded with 2 missed values
+2020-07-26 20:45:46,531 - scraper_log - INFO - Scraping 2 of 2 pages
+2020-07-26 20:45:53,602 - scraper_log - INFO - Information about job position Data Scientist, SoundBetter downloaded with 2 missed values
+2020-07-26 20:46:00,048 - scraper_log - INFO - Information about job position Data Scientist, Voter Data downloaded with 2 missed values
+2020-07-26 20:46:00,902 - scraper_log - WARNING - Can't find page of RISIRISA on wikipedia
+2020-07-26 20:46:04,941 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-26 20:46:05,758 - scraper_log - WARNING - Can't find page of Doctors Without Borders | Médecins Sans Frontières on wikipedia
+2020-07-26 20:46:11,323 - scraper_log - INFO - Information about job position Data Scientist - People Analytics downloaded with 2 missed values
+2020-07-26 20:46:12,155 - scraper_log - WARNING - Can't find page of Triplebyte on wikipedia
+2020-07-26 20:46:13,318 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-26 20:46:15,174 - scraper_log - WARNING - Can't find page of Committee of 100 on wikipedia
+2020-07-26 20:46:18,838 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-26 20:46:19,696 - scraper_log - WARNING - Can't find page of AETNA on wikipedia
+2020-07-26 20:46:26,422 - scraper_log - INFO - Information about job position Sr Data Scientist - Healthcare - 71217BR downloaded with 2 missed values
+2020-07-26 20:46:33,830 - scraper_log - INFO - Information about job position CI Data Scientist downloaded with 2 missed values
+2020-07-26 20:46:34,654 - scraper_log - WARNING - Can't find page of AETNA on wikipedia
+2020-07-26 20:46:40,140 - scraper_log - INFO - Information about job position Senior Data Scientist - 66183BR downloaded with 2 missed values
+2020-07-26 20:46:46,506 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-26 20:46:46,514 - scraper_log - INFO - Adding data to the database
+2020-07-26 20:46:46,528 - scraper_log - INFO - 20 new job positions has been added to the database
+2020-07-26 20:46:46,528 - scraper_log - INFO - Current number of positions: 375
+2020-07-26 21:01:06,534 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-07-26 21:01:06,537 - scraper_log - INFO - Set last page: 30
+2020-07-26 21:01:08,196 - scraper_log - INFO - Scraping 1 of 2 pages
+2020-07-26 21:01:33,334 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-07-26 21:01:33,335 - scraper_log - INFO - Set last page: 30
+2020-07-26 21:01:34,742 - scraper_log - INFO - Scraping 1 of 2 pages
+2020-07-26 21:01:35,560 - scraper_log - WARNING - Can't find page of Research Foundation of The City University of New... on wikipedia
+2020-07-26 21:01:40,948 - scraper_log - INFO - Information about job position Student Persistence Initiative Data Analyst/Scientist downloaded with 2 missed values
+2020-07-26 21:01:41,807 - scraper_log - WARNING - Can't find page of Decode_M on wikipedia
+2020-07-26 21:01:44,989 - scraper_log - INFO - Information about job position Junior Data Scientist downloaded with 2 missed values
+2020-07-26 21:01:53,160 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-26 21:02:00,751 - scraper_log - INFO - Information about job position Data Scientist, SoundBetter downloaded with 2 missed values
+2020-07-26 21:02:08,331 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-26 21:02:16,064 - scraper_log - INFO - Information about job position Data Scientist, Platform Analytics downloaded with 2 missed values
+2020-07-26 21:02:26,904 - scraper_log - INFO - Information about job position Data Scientist (Associate)-Investment Management Company downloaded with 2 missed values
+2020-07-26 21:02:27,737 - scraper_log - WARNING - Can't find page of RISIRISA on wikipedia
+2020-07-26 21:02:31,869 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-26 21:02:39,372 - scraper_log - INFO - Information about job position Data Scientist, Voter Data downloaded with 2 missed values
+2020-07-26 21:02:40,216 - scraper_log - WARNING - Can't find page of Doctors Without Borders | Médecins Sans Frontières on wikipedia
+2020-07-26 21:02:46,490 - scraper_log - INFO - Information about job position Data Scientist - People Analytics downloaded with 2 missed values
+2020-07-26 21:02:47,310 - scraper_log - WARNING - Can't find page of Bowery Farming on wikipedia
+2020-07-26 21:02:51,556 - scraper_log - INFO - Information about job position Senior Data Scientist downloaded with 2 missed values
+2020-07-26 21:02:58,762 - scraper_log - INFO - Information about job position CI Data Scientist downloaded with 2 missed values
+2020-07-26 21:03:05,127 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-26 21:03:12,905 - scraper_log - INFO - Information about job position Sr. Data Scientist downloaded with 2 missed values
+2020-07-26 21:03:13,708 - scraper_log - WARNING - Can't find page of AETNA on wikipedia
+2020-07-26 21:03:19,500 - scraper_log - INFO - Information about job position Sr Data Scientist - Healthcare - 71217BR downloaded with 2 missed values
+2020-07-26 21:03:19,613 - scraper_log - INFO - Scraping 2 of 2 pages
+2020-07-26 21:03:26,860 - scraper_log - INFO - Information about job position Sr. Data Scientist downloaded with 2 missed values
+2020-07-26 21:03:27,686 - scraper_log - WARNING - Can't find page of AETNA on wikipedia
+2020-07-26 21:03:33,329 - scraper_log - INFO - Information about job position Senior Data Scientist - 66183BR downloaded with 2 missed values
+2020-07-26 21:03:35,253 - scraper_log - WARNING - Can't find page of Committee of 100 on wikipedia
+2020-07-26 21:03:39,602 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-26 21:03:48,425 - scraper_log - INFO - Information about job position Data Scientist II downloaded with 2 missed values
+2020-07-26 21:03:56,340 - scraper_log - INFO - Information about job position Research Scientist-Center for Data Science downloaded with 2 missed values
+2020-07-26 21:03:57,144 - scraper_log - WARNING - Can't find page of Axon Vibe on wikipedia
+2020-07-26 21:03:58,895 - scraper_log - INFO - Information about job position Data Scientist / Data Engineer downloaded with 3 missed values
+2020-07-26 21:04:06,954 - scraper_log - INFO - Information about job position Manager, Data Scientist downloaded with 2 missed values
+2020-07-26 21:04:14,145 - scraper_log - INFO - Information about job position Programmer/Data Scientist downloaded with 2 missed values
+2020-07-26 21:04:14,973 - scraper_log - WARNING - Can't find page of New York State Office of the Attorney General on wikipedia
+2020-07-26 21:04:19,215 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-26 21:04:26,989 - scraper_log - INFO - Information about job position Data scientist downloaded with 2 missed values
+2020-07-26 21:04:32,244 - scraper_log - INFO - Information about job position Staff Data Scientist, Marketing Analytics downloaded with 2 missed values
+2020-07-26 21:04:33,065 - scraper_log - WARNING - Can't find page of INFICON, Inc. on wikipedia
+2020-07-26 21:04:36,960 - scraper_log - INFO - Information about job position Data Scientist downloaded with 2 missed values
+2020-07-26 21:04:46,246 - scraper_log - INFO - Information about job position Data Scientist/Engineer (SAS, R code, Python & Sql (Open to... downloaded with 2 missed values
+2020-07-26 21:04:55,000 - scraper_log - INFO - Information about job position Data Scientist, Medidata - Core downloaded with 2 missed values
+2020-07-26 21:05:01,631 - scraper_log - INFO - Information about job position Data Scientist, Android Go-To-Market downloaded with 2 missed values
+2020-07-26 21:05:01,641 - scraper_log - INFO - Adding data to the database
+2020-07-26 21:09:02,846 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-07-26 21:09:02,848 - scraper_log - INFO - Set last page: 20
+2020-07-26 21:09:04,622 - scraper_log - INFO - Scraping 1 of 1 pages
+2020-07-26 21:09:05,492 - scraper_log - WARNING - Can't find page of Research Foundation of The City University of New... on wikipedia
+2020-07-26 21:09:12,368 - scraper_log - INFO - Job position Student Persistence Initiative Data Analyst/Scientist in company Research Foundation of The City University of New... downloaded with 2 missed values
+2020-07-26 21:09:13,197 - scraper_log - WARNING - Can't find page of Decode_M on wikipedia
+2020-07-26 21:09:16,682 - scraper_log - INFO - Job position Junior Data Scientist in company Decode_M downloaded with 2 missed values
+2020-07-26 21:09:24,335 - scraper_log - INFO - Job position Data Scientist in company Booz Allen Hamilton downloaded with 2 missed values
+2020-07-26 21:09:31,903 - scraper_log - INFO - Job position Data Scientist, SoundBetter in company Spotify downloaded with 2 missed values
+2020-07-26 21:09:39,684 - scraper_log - INFO - Job position Data Scientist in company The New York Times downloaded with 2 missed values
+2020-07-26 21:09:47,039 - scraper_log - INFO - Job position Data Scientist, Platform Analytics in company Disney Streaming Services downloaded with 2 missed values
+2020-07-26 21:09:53,861 - scraper_log - INFO - Job position Data Scientist (Associate)-Investment Management Company in company Columbia University downloaded with 2 missed values
+2020-07-26 21:09:54,707 - scraper_log - WARNING - Can't find page of RISIRISA on wikipedia
+2020-07-26 21:09:58,210 - scraper_log - INFO - Job position Data Scientist in company RISIRISA downloaded with 2 missed values
+2020-07-26 21:10:04,608 - scraper_log - INFO - Job position Data Scientist, Voter Data in company Hawkfish downloaded with 2 missed values
+2020-07-26 21:10:05,453 - scraper_log - WARNING - Can't find page of Doctors Without Borders | Médecins Sans Frontières on wikipedia
+2020-07-26 21:10:12,256 - scraper_log - INFO - Job position Data Scientist - People Analytics in company Doctors Without Borders | Médecins Sans Frontières downloaded with 2 missed values
+2020-07-26 21:10:13,133 - scraper_log - WARNING - Can't find page of Bowery Farming on wikipedia
+2020-07-26 21:10:17,211 - scraper_log - INFO - Job position Senior Data Scientist in company Bowery Farming downloaded with 2 missed values
+2020-07-26 21:10:24,379 - scraper_log - INFO - Job position CI Data Scientist in company Novelis downloaded with 2 missed values
+2020-07-26 21:10:30,672 - scraper_log - INFO - Job position Data Scientist in company Take-Two Interactive Software, Inc. downloaded with 2 missed values
+2020-07-26 21:10:38,146 - scraper_log - INFO - Job position Sr. Data Scientist in company S&P Global downloaded with 2 missed values
+2020-07-26 21:10:38,972 - scraper_log - WARNING - Can't find page of AETNA on wikipedia
+2020-07-26 21:10:44,803 - scraper_log - INFO - Job position Sr Data Scientist - Healthcare - 71217BR in company AETNA downloaded with 2 missed values
+2020-07-26 21:10:44,810 - scraper_log - INFO - Adding data to the database
+2020-07-26 21:10:44,850 - scraper_log - INFO - 15 new job positions has been added to the database
+2020-07-26 21:10:44,851 - scraper_log - INFO - Current number of positions: 12
+2020-07-26 21:20:16,380 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-07-26 21:20:16,382 - scraper_log - INFO - Set last page: 20
+2020-07-26 21:20:17,930 - scraper_log - INFO - Scraping 1 of 1 pages
+2020-07-26 21:20:22,765 - scraper_log - INFO - Job position Data Analytics Intern in company The Bronx Defenders downloaded with 1 missed values
+2020-07-26 21:20:30,226 - scraper_log - INFO - Job position Sr. Data Scientist in company TMP Worldwide downloaded with 2 missed values
+2020-07-26 21:20:36,099 - scraper_log - INFO - Job position Data Scientist in company Conde Nast downloaded with 2 missed values
+2020-07-26 21:20:41,516 - scraper_log - INFO - Job position Data Scientist in company Booz Allen Hamilton downloaded with 3 missed values
+2020-07-26 21:20:48,334 - scraper_log - INFO - Job position Data Scientist in company 1-800-Flowers downloaded with 3 missed values
+2020-07-26 21:20:49,170 - scraper_log - WARNING - Can't find page of Research Foundation of The City University of New... on wikipedia
+2020-07-26 21:20:54,532 - scraper_log - INFO - Job position Student Persistence Initiative Data Analyst/Scientist in company Research Foundation of The City University of New... downloaded with 2 missed values
+2020-07-26 21:21:24,514 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-07-26 21:21:24,516 - scraper_log - INFO - Set last page: 20
+2020-07-26 21:21:26,028 - scraper_log - INFO - Scraping 1 of 1 pages
+2020-07-26 21:21:30,969 - scraper_log - INFO - Job position Data Analytics Intern in company The Bronx Defenders downloaded with 1 missed values
+2020-07-26 21:21:38,484 - scraper_log - INFO - Job position Sr. Data Scientist in company TMP Worldwide downloaded with 2 missed values
+2020-07-26 21:21:43,991 - scraper_log - INFO - Job position Data Scientist in company Conde Nast downloaded with 2 missed values
+2020-07-26 21:21:51,038 - scraper_log - INFO - Job position Data Scientist in company Booz Allen Hamilton downloaded with 2 missed values
+2020-07-26 21:21:57,390 - scraper_log - INFO - Job position Data Scientist in company 1-800-Flowers downloaded with 3 missed values
+2020-07-26 21:21:58,206 - scraper_log - WARNING - Can't find page of Research Foundation of The City University of New... on wikipedia
+2020-07-26 21:22:03,705 - scraper_log - INFO - Job position Student Persistence Initiative Data Analyst/Scientist in company Research Foundation of The City University of New... downloaded with 2 missed values
+2020-07-26 21:22:10,808 - scraper_log - INFO - Job position Data Scientist in company The New York Times downloaded with 2 missed values
+2020-07-26 21:22:15,681 - scraper_log - INFO - Job position Data Scientist, Analytics & Inference in company Codecademy downloaded with 2 missed values
+2020-07-26 21:22:16,519 - scraper_log - WARNING - Can't find page of Decode_M on wikipedia
+2020-07-26 21:22:19,764 - scraper_log - INFO - Job position Junior Data Scientist in company Decode_M downloaded with 2 missed values
+2020-07-26 21:22:27,873 - scraper_log - INFO - Job position Data Scientist, SoundBetter in company Spotify downloaded with 2 missed values
+2020-07-26 21:22:27,880 - scraper_log - INFO - Adding data to the database
+2020-07-26 21:24:06,144 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-07-26 21:24:06,147 - scraper_log - INFO - Set last page: 20
+2020-07-26 21:24:07,872 - scraper_log - INFO - Scraping 1 of 1 pages
+2020-07-26 21:24:08,696 - scraper_log - WARNING - Can't find page of Research Foundation of The City University of New... on wikipedia
+2020-07-26 21:24:14,909 - scraper_log - INFO - Job position Student Persistence Initiative Data Analyst/Scientist in company Research Foundation of The City University of New... downloaded with 2 missed values
+2020-07-26 21:24:22,029 - scraper_log - INFO - Job position Data Scientist in company The New York Times downloaded with 2 missed values
+2020-07-26 21:24:26,773 - scraper_log - INFO - Job position Data Scientist, Analytics & Inference in company Codecademy downloaded with 2 missed values
+2020-07-26 21:24:27,611 - scraper_log - WARNING - Can't find page of Decode_M on wikipedia
+2020-07-26 21:24:30,914 - scraper_log - INFO - Job position Junior Data Scientist in company Decode_M downloaded with 2 missed values
+2020-07-26 21:24:38,125 - scraper_log - INFO - Job position Data Scientist, SoundBetter in company Spotify downloaded with 2 missed values
+2020-07-26 21:24:45,349 - scraper_log - INFO - Job position Data Scientist, Platform Analytics in company Disney Streaming Services downloaded with 2 missed values
+2020-07-26 21:24:51,762 - scraper_log - INFO - Job position Data Scientist, Voter Data in company Hawkfish downloaded with 2 missed values
+2020-07-26 21:24:52,598 - scraper_log - WARNING - Can't find page of Doctors Without Borders | Médecins Sans Frontières on wikipedia
+2020-07-26 21:24:58,081 - scraper_log - INFO - Job position Data Scientist - People Analytics in company Doctors Without Borders | Médecins Sans Frontières downloaded with 2 missed values
+2020-07-26 21:24:58,889 - scraper_log - WARNING - Can't find page of Triplebyte on wikipedia
+2020-07-26 21:25:00,083 - scraper_log - INFO - Job position Data Scientist in company Triplebyte downloaded with 2 missed values
+2020-07-26 21:25:07,465 - scraper_log - INFO - Job position Data Scientist (Associate)-Investment Management Company in company Columbia University downloaded with 2 missed values
+2020-07-26 21:25:08,283 - scraper_log - WARNING - Can't find page of RISIRISA on wikipedia
+2020-07-26 21:25:11,825 - scraper_log - INFO - Job position Data Scientist in company RISIRISA downloaded with 2 missed values
+2020-07-26 21:25:12,664 - scraper_log - WARNING - Can't find page of Axon Vibe on wikipedia
+2020-07-26 21:25:13,821 - scraper_log - INFO - Job position Data Scientist / Data Engineer in company Axon Vibe downloaded with 3 missed values
+2020-07-26 21:25:14,643 - scraper_log - WARNING - Can't find page of AETNA on wikipedia
+2020-07-26 21:25:19,654 - scraper_log - INFO - Job position Senior Data Scientist - 66183BR in company AETNA downloaded with 2 missed values
+2020-07-26 21:25:20,485 - scraper_log - WARNING - Can't find page of AETNA on wikipedia
+2020-07-26 21:25:26,394 - scraper_log - INFO - Job position Sr Data Scientist - Healthcare - 71217BR in company AETNA downloaded with 2 missed values
+2020-07-26 21:25:32,542 - scraper_log - INFO - Job position Data Scientist in company Take-Two Interactive Software, Inc. downloaded with 2 missed values
+2020-07-26 21:25:32,549 - scraper_log - INFO - Adding data to the database
+2020-07-26 21:27:12,803 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-07-26 21:27:12,806 - scraper_log - INFO - Set last page: 20
+2020-07-26 21:27:14,593 - scraper_log - INFO - Scraping 1 of 1 pages
+2020-07-26 21:27:19,251 - scraper_log - INFO - Job position Data Analytics Intern in company The Bronx Defenders downloaded with 1 missed values
+2020-07-26 21:27:26,526 - scraper_log - INFO - Job position Sr. Data Scientist in company TMP Worldwide downloaded with 2 missed values
+2020-07-26 21:27:32,044 - scraper_log - INFO - Job position Data Scientist in company Conde Nast downloaded with 2 missed values
+2020-07-26 21:27:38,776 - scraper_log - INFO - Job position Data Scientist in company Booz Allen Hamilton downloaded with 2 missed values
+2020-07-26 21:27:46,286 - scraper_log - INFO - Job position Data Scientist in company 1-800-Flowers downloaded with 3 missed values
+2020-07-26 21:27:47,151 - scraper_log - WARNING - Can't find page of Research Foundation of The City University of New... on wikipedia
+2020-07-26 21:27:53,453 - scraper_log - INFO - Job position Student Persistence Initiative Data Analyst/Scientist in company Research Foundation of The City University of New... downloaded with 2 missed values
+2020-07-26 21:28:00,896 - scraper_log - INFO - Job position Data Scientist in company The New York Times downloaded with 2 missed values
+2020-07-26 21:28:05,809 - scraper_log - INFO - Job position Data Scientist, Analytics & Inference in company Codecademy downloaded with 2 missed values
+2020-07-26 21:28:06,631 - scraper_log - WARNING - Can't find page of Decode_M on wikipedia
+2020-07-26 21:28:10,155 - scraper_log - INFO - Job position Junior Data Scientist in company Decode_M downloaded with 2 missed values
+2020-07-26 21:28:17,505 - scraper_log - INFO - Job position Data Scientist, SoundBetter in company Spotify downloaded with 2 missed values
+2020-07-26 21:28:17,511 - scraper_log - INFO - Adding data to the database
+2020-07-26 21:34:51,546 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-07-26 21:34:51,548 - scraper_log - INFO - Set last page: 20
+2020-07-26 21:34:53,360 - scraper_log - INFO - Scraping 1 of 1 pages
+2020-07-26 21:35:00,956 - scraper_log - INFO - Job position Data Scientist in company The New York Times downloaded with 2 missed values
+2020-07-26 21:35:01,796 - scraper_log - WARNING - Can't find page of Research Foundation of The City University of New... on wikipedia
+2020-07-26 21:35:07,748 - scraper_log - INFO - Job position Student Persistence Initiative Data Analyst/Scientist in company Research Foundation of The City University of New... downloaded with 2 missed values
+2020-07-26 21:35:13,226 - scraper_log - INFO - Job position Data Scientist, Analytics & Inference in company Codecademy downloaded with 2 missed values
+2020-07-26 21:35:20,933 - scraper_log - INFO - Job position Data Scientist, Platform Analytics in company Disney Streaming Services downloaded with 2 missed values
+2020-07-26 21:35:29,000 - scraper_log - INFO - Job position Data Scientist, SoundBetter in company Spotify downloaded with 2 missed values
+2020-07-26 21:35:29,814 - scraper_log - WARNING - Can't find page of Decode_M on wikipedia
+2020-07-26 21:35:33,274 - scraper_log - INFO - Job position Junior Data Scientist in company Decode_M downloaded with 2 missed values
+2020-07-26 21:35:41,118 - scraper_log - INFO - Job position Data Scientist (Associate)-Investment Management Company in company Columbia University downloaded with 2 missed values
+2020-07-26 21:35:42,096 - scraper_log - WARNING - Can't find page of Doctors Without Borders | Médecins Sans Frontières on wikipedia
+2020-07-26 21:35:48,263 - scraper_log - INFO - Job position Data Scientist - People Analytics in company Doctors Without Borders | Médecins Sans Frontières downloaded with 2 missed values
+2020-07-26 21:35:54,479 - scraper_log - INFO - Job position Data Scientist, Voter Data in company Hawkfish downloaded with 2 missed values
+2020-07-26 21:35:55,302 - scraper_log - WARNING - Can't find page of Triplebyte on wikipedia
+2020-07-26 21:35:56,482 - scraper_log - INFO - Job position Data Scientist in company Triplebyte downloaded with 2 missed values
+2020-07-26 21:35:57,323 - scraper_log - WARNING - Can't find page of RISIRISA on wikipedia
+2020-07-26 21:36:00,755 - scraper_log - INFO - Job position Data Scientist in company RISIRISA downloaded with 2 missed values
+2020-07-26 21:36:01,591 - scraper_log - WARNING - Can't find page of Axon Vibe on wikipedia
+2020-07-26 21:36:02,775 - scraper_log - INFO - Job position Data Scientist / Data Engineer in company Axon Vibe downloaded with 3 missed values
+2020-07-26 21:36:08,611 - scraper_log - INFO - Job position Data Scientist in company Take-Two Interactive Software, Inc. downloaded with 2 missed values
+2020-07-26 21:36:10,155 - scraper_log - WARNING - Can't find page of AETNA on wikipedia
+2020-07-26 21:36:15,286 - scraper_log - INFO - Job position Senior Data Scientist - 66183BR in company AETNA downloaded with 2 missed values
+2020-07-26 21:36:16,113 - scraper_log - WARNING - Can't find page of Bowery Farming on wikipedia
+2020-07-26 21:36:19,691 - scraper_log - INFO - Job position Senior Data Scientist in company Bowery Farming downloaded with 2 missed values
+2020-07-26 21:36:19,698 - scraper_log - INFO - Adding data to the database
+2020-07-26 21:36:19,708 - scraper_log - INFO - 15 new job positions has been added to the database
+2020-07-26 21:36:19,708 - scraper_log - INFO - Current number of positions: 12
+2020-07-26 21:46:57,785 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-07-26 21:46:57,787 - scraper_log - INFO - Set last page: 20
+2020-07-26 21:46:59,578 - scraper_log - INFO - Scraping 1 of 1 pages
+2020-07-26 21:47:00,495 - scraper_log - WARNING - Can't find page of Research Foundation of The City University of New... on wikipedia
+2020-07-26 21:47:06,232 - scraper_log - INFO - Job position Student Persistence Initiative Data Analyst/Scientist in company Research Foundation of The City University of New... downloaded with 2 missed values
+2020-07-26 21:47:12,830 - scraper_log - INFO - Job position Data Scientist in company The New York Times downloaded with 2 missed values
+2020-07-26 21:47:13,695 - scraper_log - WARNING - Can't find page of Decode_M on wikipedia
+2020-07-26 21:47:16,917 - scraper_log - INFO - Job position Junior Data Scientist in company Decode_M downloaded with 2 missed values
+2020-07-26 21:47:23,260 - scraper_log - INFO - Job position Data Scientist, Analytics & Inference in company Codecademy downloaded with 2 missed values
+2020-07-26 21:47:30,258 - scraper_log - INFO - Job position Data Scientist, Platform Analytics in company Disney Streaming Services downloaded with 2 missed values
+2020-07-26 21:47:37,303 - scraper_log - INFO - Job position Data Scientist, SoundBetter in company Spotify downloaded with 2 missed values
+2020-07-26 21:47:38,150 - scraper_log - WARNING - Can't find page of Doctors Without Borders | Médecins Sans Frontières on wikipedia
+2020-07-26 21:47:44,308 - scraper_log - INFO - Job position Data Scientist - People Analytics in company Doctors Without Borders | Médecins Sans Frontières downloaded with 2 missed values
+2020-07-26 21:47:52,110 - scraper_log - INFO - Job position Data Scientist (Associate)-Investment Management Company in company Columbia University downloaded with 2 missed values
+2020-07-26 21:47:52,931 - scraper_log - WARNING - Can't find page of RISIRISA on wikipedia
+2020-07-26 21:47:56,831 - scraper_log - INFO - Job position Data Scientist in company RISIRISA downloaded with 2 missed values
+2020-07-26 21:48:03,541 - scraper_log - INFO - Job position Data Scientist, Voter Data in company Hawkfish downloaded with 2 missed values
+2020-07-26 21:48:04,409 - scraper_log - WARNING - Can't find page of Triplebyte on wikipedia
+2020-07-26 21:48:06,035 - scraper_log - INFO - Job position Data Scientist in company Triplebyte downloaded with 2 missed values
+2020-07-26 21:48:15,175 - scraper_log - INFO - Job position CI Data Scientist in company Novelis downloaded with 2 missed values
+2020-07-26 21:48:15,996 - scraper_log - WARNING - Can't find page of Axon Vibe on wikipedia
+2020-07-26 21:48:17,307 - scraper_log - INFO - Job position Data Scientist / Data Engineer in company Axon Vibe downloaded with 3 missed values
+2020-07-26 21:48:23,578 - scraper_log - INFO - Job position Data Scientist in company Take-Two Interactive Software, Inc. downloaded with 2 missed values
+2020-07-26 21:48:24,405 - scraper_log - WARNING - Can't find page of AETNA on wikipedia
+2020-07-26 21:48:30,173 - scraper_log - INFO - Job position Senior Data Scientist - 66183BR in company AETNA downloaded with 2 missed values
+2020-07-26 21:48:30,180 - scraper_log - INFO - Adding data to the database
+2020-07-26 21:48:30,198 - scraper_log - INFO - 15 new job positions has been added to the database
+2020-07-26 21:48:30,198 - scraper_log - INFO - Current number of positions: 12
+2020-08-02 17:52:39,289 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-08-02 17:52:39,293 - scraper_log - INFO - Set last page: 20
+2020-08-02 17:52:42,040 - scraper_log - INFO - Scraping 1 of 1 pages
+2020-08-02 17:52:47,425 - scraper_log - INFO - Job position Product Data Scientist in company Twitter downloaded with 2 missed values
+2020-08-02 17:52:48,064 - scraper_log - WARNING - Can't find page of RISIRISA on wikipedia
+2020-08-02 17:52:52,269 - scraper_log - INFO - Job position Data Scientist in company RISIRISA downloaded with 2 missed values
+2020-08-02 17:53:01,050 - scraper_log - INFO - Job position Data Scientist in company 1-800-Flowers downloaded with 3 missed values
+2020-08-02 17:53:08,637 - scraper_log - INFO - Job position Data Scientist, SoundBetter in company Spotify downloaded with 2 missed values
+2020-08-02 17:53:16,960 - scraper_log - INFO - Job position Sr. Data Scientist in company TMP Worldwide downloaded with 2 missed values
+2020-08-02 17:53:24,156 - scraper_log - INFO - Job position Data Scientist, Voter Data in company Hawkfish downloaded with 2 missed values
+2020-08-02 17:53:29,959 - scraper_log - INFO - Job position Data Scientist in company Conde Nast downloaded with 2 missed values
+2020-08-02 17:53:37,870 - scraper_log - INFO - Job position Data Scientist, Platform Analytics in company Disney Streaming Services downloaded with 2 missed values
+2020-08-02 17:53:43,675 - scraper_log - INFO - Job position Data Scientist in company Take-Two Interactive Software, Inc. downloaded with 2 missed values
+2020-08-02 17:53:50,654 - scraper_log - INFO - Job position Data Scientist II in company New York Power Authority downloaded with 2 missed values
+2020-08-02 17:53:57,661 - scraper_log - INFO - Job position Data Scientist, Premium Products Discovery in company Spotify downloaded with 2 missed values
+2020-08-02 17:54:07,263 - scraper_log - INFO - Job position 2020 PhD Data Scientist Internship - Uber Eats (New York) in company Uber downloaded with 3 missed values
+2020-08-02 17:54:13,693 - scraper_log - INFO - Job position Data Scientist/ML Engineer in company PA Consulting Group downloaded with 2 missed values
+2020-08-02 17:54:15,181 - scraper_log - WARNING - Can't find page of Committee of 100 on wikipedia
+2020-08-02 17:54:19,260 - scraper_log - INFO - Job position Data Scientist in company Committee of 100 downloaded with 2 missed values
+2020-08-02 17:54:19,882 - scraper_log - WARNING - Can't find page of Research Foundation of The City University of New... on wikipedia
+2020-08-02 17:54:26,036 - scraper_log - INFO - Job position Student Persistence Initiative Data Analyst/Scientist in company Research Foundation of The City University of New... downloaded with 2 missed values
+2020-08-02 17:54:26,040 - scraper_log - INFO - Adding data to the database
+2020-08-02 17:54:26,061 - scraper_log - INFO - 15 new job positions has been added to the database
+2020-08-02 17:54:26,061 - scraper_log - INFO - Current number of positions: 18
+2020-08-02 17:54:46,393 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-08-02 17:54:46,395 - scraper_log - INFO - Set last page: 20
+2020-08-02 17:54:48,892 - scraper_log - INFO - Scraping 1 of 1 pages
+2020-08-02 17:55:00,712 - scraper_log - INFO - Job position Data Scientist in company 1-800-Flowers downloaded with 3 missed values
+2020-08-02 17:55:01,295 - scraper_log - WARNING - Can't find page of RISIRISA on wikipedia
+2020-08-02 17:55:05,295 - scraper_log - INFO - Job position Data Scientist in company RISIRISA downloaded with 2 missed values
+2020-08-02 17:55:10,798 - scraper_log - INFO - Job position Data Scientist in company Conde Nast downloaded with 2 missed values
+2020-08-02 17:55:15,412 - scraper_log - INFO - Job position Data Analytics Intern in company The Bronx Defenders downloaded with 1 missed values
+2020-08-02 17:55:22,677 - scraper_log - INFO - Job position Data Scientist, SoundBetter in company Spotify downloaded with 2 missed values
+2020-08-02 17:55:28,469 - scraper_log - INFO - Job position Data Scientist, Voter Data in company Hawkfish downloaded with 2 missed values
+2020-08-02 17:55:36,245 - scraper_log - INFO - Job position Sr. Data Scientist in company TMP Worldwide downloaded with 2 missed values
+2020-08-02 17:55:43,485 - scraper_log - INFO - Job position Data Scientist, Platform Analytics in company Disney Streaming Services downloaded with 2 missed values
+2020-08-02 17:55:49,384 - scraper_log - INFO - Job position Data Scientist in company Take-Two Interactive Software, Inc. downloaded with 2 missed values
+2020-08-02 17:55:57,584 - scraper_log - INFO - Job position 2020 PhD Data Scientist Internship - Uber Eats (New York) in company Uber downloaded with 3 missed values
+2020-08-02 17:56:04,527 - scraper_log - INFO - Job position Data Scientist II in company New York Power Authority downloaded with 2 missed values
+2020-08-02 17:56:11,193 - scraper_log - INFO - Job position Data Scientist, Premium Products Discovery in company Spotify downloaded with 2 missed values
+2020-08-02 17:56:13,045 - scraper_log - WARNING - Can't find page of Committee of 100 on wikipedia
+2020-08-02 17:56:16,858 - scraper_log - INFO - Job position Data Scientist in company Committee of 100 downloaded with 2 missed values
+2020-08-02 17:56:17,452 - scraper_log - WARNING - Can't find page of Research Foundation of The City University of New... on wikipedia
+2020-08-02 17:56:23,515 - scraper_log - INFO - Job position Student Persistence Initiative Data Analyst/Scientist in company Research Foundation of The City University of New... downloaded with 2 missed values
+2020-08-02 17:56:34,364 - scraper_log - INFO - Job position Data Scientist/ML Engineer in company PA Consulting Group downloaded with 2 missed values
+2020-08-02 17:56:34,375 - scraper_log - INFO - Adding data to the database
+2020-08-02 17:56:34,395 - scraper_log - INFO - 15 new job positions has been added to the database
+2020-08-02 17:56:34,396 - scraper_log - INFO - Current number of positions: 19
+2020-08-04 14:01:03,386 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-08-04 14:01:03,389 - scraper_log - INFO - Set last page: 20
+2020-08-04 14:01:05,102 - scraper_log - INFO - Scraping 1 of 1 pages
+2020-08-04 14:01:11,458 - scraper_log - INFO - Job position Content Contributor: Data Science in company Codecademy downloaded with 2 missed values
+2020-08-04 14:01:16,677 - scraper_log - INFO - Job position Data Scientist in company Hinge downloaded with 2 missed values
+2020-08-04 14:01:17,497 - scraper_log - WARNING - Can't find page of Decode_M on wikipedia
+2020-08-04 14:01:20,638 - scraper_log - INFO - Job position Junior Data Scientist in company Decode_M downloaded with 2 missed values
+2020-08-04 14:01:21,423 - scraper_log - WARNING - Can't find page of Triplebyte on wikipedia
+2020-08-04 14:01:22,617 - scraper_log - INFO - Job position Data Scientist in company Triplebyte downloaded with 2 missed values
+2020-08-04 14:01:29,904 - scraper_log - INFO - Job position Data Scientist in company Booz Allen Hamilton downloaded with 2 missed values
+2020-08-04 14:01:30,690 - scraper_log - WARNING - Can't find page of RISIRISA on wikipedia
+2020-08-04 14:01:34,160 - scraper_log - INFO - Job position Data Scientist in company RISIRISA downloaded with 2 missed values
+2020-08-04 14:01:41,293 - scraper_log - INFO - Job position Sr. Data Scientist in company TMP Worldwide downloaded with 2 missed values
+2020-08-04 14:01:48,196 - scraper_log - INFO - Job position Data Scientist – Experimentation (Contract Position) in company Getty Images downloaded with 2 missed values
+2020-08-04 14:01:55,522 - scraper_log - INFO - Job position DATA SCIENTIST in company Foot Locker, Inc. downloaded with 2 missed values
+2020-08-04 14:02:01,115 - scraper_log - INFO - Job position Data Scientist in company Conde Nast downloaded with 2 missed values
+2020-08-04 14:02:01,131 - scraper_log - INFO - Adding data to the database
+2020-08-04 14:02:01,195 - scraper_log - INFO - 10 new job positions has been added to the database
+2020-08-04 14:02:01,195 - scraper_log - INFO - Current number of positions: 20
+2020-08-04 14:06:03,225 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-08-04 14:06:03,227 - scraper_log - INFO - Set last page: 20
+2020-08-04 14:06:05,098 - scraper_log - INFO - Scraping 1 of 1 pages
+2020-08-04 14:06:06,118 - scraper_log - WARNING - Can't find page of RISIRISA on wikipedia
+2020-08-04 14:06:09,735 - scraper_log - INFO - Job position Data Scientist in company RISIRISA downloaded with 2 missed values
+2020-08-04 14:06:17,165 - scraper_log - INFO - Job position Sr. Data Scientist in company TMP Worldwide downloaded with 2 missed values
+2020-08-04 14:06:21,941 - scraper_log - INFO - Job position Data Analytics Internship, Case Management Team, DHR, NYHQ in company UNICEF downloaded with 1 missed values
+2020-08-04 14:06:29,275 - scraper_log - INFO - Job position Data Scientist in company 1-800-Flowers downloaded with 3 missed values
+2020-08-04 14:06:34,776 - scraper_log - INFO - Job position Data Scientist in company Conde Nast downloaded with 2 missed values
+2020-08-04 14:06:42,653 - scraper_log - INFO - Job position DATA SCIENTIST in company Foot Locker, Inc. downloaded with 2 missed values
+2020-08-04 14:06:50,573 - scraper_log - INFO - Job position Data Scientist – Experimentation (Contract Position) in company Getty Images downloaded with 2 missed values
+2020-08-04 14:06:56,989 - scraper_log - INFO - Job position Data Scientist, Voter Data in company Hawkfish downloaded with 2 missed values
+2020-08-04 14:07:03,016 - scraper_log - INFO - Job position Data Scientist in company Take-Two Interactive Software, Inc. downloaded with 2 missed values
+2020-08-04 14:07:04,824 - scraper_log - WARNING - Can't find page of Committee of 100 on wikipedia
+2020-08-04 14:07:08,404 - scraper_log - INFO - Job position Data Scientist in company Committee of 100 downloaded with 2 missed values
+2020-08-04 14:07:14,905 - scraper_log - INFO - Job position Data Scientist II in company New York Power Authority downloaded with 2 missed values
+2020-08-04 14:07:22,625 - scraper_log - INFO - Job position 2020 PhD Data Scientist Internship - Uber Eats (New York) in company Uber downloaded with 3 missed values
+2020-08-04 14:07:29,488 - scraper_log - INFO - Job position Data Scientist, Premium Products Discovery in company Spotify downloaded with 2 missed values
+2020-08-04 14:07:36,246 - scraper_log - INFO - Job position Data Scientist, Platform Analytics in company Disney Streaming Services downloaded with 2 missed values
+2020-08-04 14:07:42,844 - scraper_log - INFO - Job position Principal Data Scientist in company Veeva Systems downloaded with 2 missed values
+2020-08-04 14:07:42,866 - scraper_log - INFO - Adding data to the database
+2020-08-04 14:07:42,929 - scraper_log - INFO - 15 new job positions has been added to the database
+2020-08-04 14:07:42,929 - scraper_log - INFO - Current number of positions: 20
+2020-08-04 14:11:34,747 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-08-04 14:11:34,750 - scraper_log - INFO - Set last page: 20
+2020-08-04 14:11:36,393 - scraper_log - INFO - Scraping 1 of 1 pages
+2020-08-04 14:11:42,117 - scraper_log - INFO - Job position Content Contributor: Data Science in company Codecademy downloaded with 2 missed values
+2020-08-04 14:11:47,075 - scraper_log - INFO - Job position Data Scientist in company Hinge downloaded with 2 missed values
+2020-08-04 14:11:47,863 - scraper_log - WARNING - Can't find page of Decode_M on wikipedia
+2020-08-04 14:11:51,095 - scraper_log - INFO - Job position Junior Data Scientist in company Decode_M downloaded with 2 missed values
+2020-08-04 14:11:51,895 - scraper_log - WARNING - Can't find page of Triplebyte on wikipedia
+2020-08-04 14:11:53,144 - scraper_log - INFO - Job position Data Scientist in company Triplebyte downloaded with 2 missed values
+2020-08-04 14:12:00,564 - scraper_log - INFO - Job position Data Scientist in company Booz Allen Hamilton downloaded with 2 missed values
+2020-08-04 14:12:01,371 - scraper_log - WARNING - Can't find page of RISIRISA on wikipedia
+2020-08-04 14:12:04,848 - scraper_log - INFO - Job position Data Scientist in company RISIRISA downloaded with 2 missed values
+2020-08-04 14:12:12,122 - scraper_log - INFO - Job position Sr. Data Scientist in company TMP Worldwide downloaded with 2 missed values
+2020-08-04 14:12:18,647 - scraper_log - INFO - Job position Data Scientist – Experimentation (Contract Position) in company Getty Images downloaded with 2 missed values
+2020-08-04 14:12:25,958 - scraper_log - INFO - Job position DATA SCIENTIST in company Foot Locker, Inc. downloaded with 2 missed values
+2020-08-04 14:12:31,309 - scraper_log - INFO - Job position Data Scientist in company Conde Nast downloaded with 2 missed values
+2020-08-04 14:12:31,323 - scraper_log - INFO - Adding data to the database
+2020-08-04 14:12:31,362 - scraper_log - INFO - 10 new job positions has been added to the database
+2020-08-04 14:12:31,363 - scraper_log - INFO - Current number of positions: 20
+2020-08-04 14:13:24,188 - scraper_log - INFO - >>>>> Start scrapping <<<<<
+2020-08-04 14:13:24,191 - scraper_log - INFO - Set last page: 20
+2020-08-04 14:13:26,024 - scraper_log - INFO - Scraping 1 of 1 pages
+2020-08-04 14:13:26,871 - scraper_log - WARNING - Can't find page of RISIRISA on wikipedia
+2020-08-04 14:13:30,846 - scraper_log - INFO - Job position Data Scientist in company RISIRISA downloaded with 2 missed values
+2020-08-04 14:13:38,576 - scraper_log - INFO - Job position Sr. Data Scientist in company TMP Worldwide downloaded with 2 missed values
+2020-08-04 14:13:43,863 - scraper_log - INFO - Job position Data Analytics Internship, Case Management Team, DHR, NYHQ in company UNICEF downloaded with 1 missed values
+2020-08-04 14:13:51,369 - scraper_log - INFO - Job position Data Scientist in company 1-800-Flowers downloaded with 3 missed values
+2020-08-04 14:13:57,216 - scraper_log - INFO - Job position Data Scientist in company Conde Nast downloaded with 2 missed values
+2020-08-04 14:14:06,098 - scraper_log - INFO - Job position DATA SCIENTIST in company Foot Locker, Inc. downloaded with 2 missed values
+2020-08-04 14:14:12,898 - scraper_log - INFO - Job position Data Scientist – Experimentation (Contract Position) in company Getty Images downloaded with 2 missed values
+2020-08-04 14:14:19,012 - scraper_log - INFO - Job position Data Scientist, Voter Data in company Hawkfish downloaded with 2 missed values
+2020-08-04 14:14:24,758 - scraper_log - INFO - Job position Data Scientist in company Take-Two Interactive Software, Inc. downloaded with 2 missed values
+2020-08-04 14:14:26,555 - scraper_log - WARNING - Can't find page of Committee of 100 on wikipedia
+2020-08-04 14:14:30,201 - scraper_log - INFO - Job position Data Scientist in company Committee of 100 downloaded with 2 missed values
+2020-08-04 14:14:37,085 - scraper_log - INFO - Job position Data Scientist II in company New York Power Authority downloaded with 2 missed values
+2020-08-04 14:14:44,896 - scraper_log - INFO - Job position 2020 PhD Data Scientist Internship - Uber Eats (New York) in company Uber downloaded with 3 missed values
+2020-08-04 14:14:51,400 - scraper_log - INFO - Job position Data Scientist, Premium Products Discovery in company Spotify downloaded with 2 missed values
+2020-08-04 14:14:58,497 - scraper_log - INFO - Job position Data Scientist, Platform Analytics in company Disney Streaming Services downloaded with 2 missed values
+2020-08-04 14:15:05,133 - scraper_log - INFO - Job position Principal Data Scientist in company Veeva Systems downloaded with 2 missed values
+2020-08-04 14:15:05,147 - scraper_log - INFO - Adding data to the database
+2020-08-04 14:15:05,207 - scraper_log - INFO - 15 new job positions has been added to the database
+2020-08-04 14:15:05,207 - scraper_log - INFO - Current number of positions: 20

@@ -3,7 +3,6 @@ from time import sleep
 import pandas as pd
 import sys
 import math
-import argparse
 
 # internal module with own functions
 import tools
@@ -27,7 +26,6 @@ def parse_pages(base_url, final_page):
 
     # TODO: invoke function to append df to the database
     db_manager.add_records(df_result)
-    print('depth:', final_page)
 
     return df_result
 
@@ -40,21 +38,18 @@ def usage():
 
 
 def main():
-    parser = argparse.ArgumentParser()
-    parser.add_argument('x', type=int)
+    args = sys.argv[1:]
 
-    args = parser.parse_args()
-
-    if args:
+    if not args or len(args) > 1:
         # run module for testing purposes
-        df_res = parse_pages(BASE_URL, args.x)
+        df_res = parse_pages(BASE_URL, 11)
         print(df_res)
 
         # usage()
         # sys.exit(1)
 
     try:
-        depth = args.x
+        depth = int(args[0])
     except:
         print('<depth> must be an integer')
         usage()
